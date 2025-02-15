@@ -67,3 +67,10 @@
 [20:58:13] [Server thread/INFO]: home/codespace/.python/current/bin/python "/workspaces/server/msx (1).py"<--[HERE]
 [20:58:21] [Server thread/INFO]: zfakeinq[/127.162.19.129:45347] logged in with entity id 146 at (2.5, 75.0, 2.5)
 [20:58:21] [Server thread/INFO]: zfakeinq joined the game
+[21:08:15] [Server thread/INFO]: zfakeinq lost connection: Disconnected
+[21:08:15] [Server thread/INFO]: zfakeinq left the game
+[21:17:46] [Server thread/INFO]: Stopping the server
+[21:17:46] [Server thread/INFO]: Stopping server
+[21:17:46] [Server thread/INFO]: Saving players
+[21:17:46] [Server thread/INFO]: Saving worlds
+[21:17:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
