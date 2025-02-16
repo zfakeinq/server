@@ -72,6 +72,12 @@
     },
     "done": true
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-02-16 14:35:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-16 13:46:15 +0000"
@@ -122,6 +128,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dripstone_caves": "2025-02-16 14:33:04 +0000",
       "minecraft:forest": "2025-02-16 13:54:52 +0000",
       "minecraft:plains": "2025-02-16 13:46:16 +0000"
     },
@@ -169,6 +176,25 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-16 14:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-02-16 14:23:39 +0000",
+      "cooked_chicken": "2025-02-16 14:23:31 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-02-16 14:35:45 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-16 13:46:15 +0000"
@@ -178,6 +204,12 @@
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-16 14:00:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-16 14:23:31 +0000"
     },
     "done": true
   },
@@ -222,6 +254,12 @@
       "has_the_recipe": "2025-02-16 13:46:15 +0000"
     },
     "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "yellow": "2025-02-16 14:32:20 +0000"
+    },
+    "done": false
   },
   "comforts:sleeping_bag_yellow": {
     "criteria": {

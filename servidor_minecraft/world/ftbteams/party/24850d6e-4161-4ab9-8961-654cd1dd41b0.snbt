@@ -12,6 +12,9 @@
 		"ftbteams:free_to_join": 0b
 		"ftbteams:max_msg_history_size": 1000
 	}
-	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1739714311439L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"zfakeinq\"}]}" }]
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739714311439L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"zfakeinq\"}]}" }
+		{ from: "781296b7-cb0e-3f07-94b1-125f7cf766d1", date: 1739716705796L, text: "{\"text\":\"e\"}" }
+	]
 	extra: { }
 }

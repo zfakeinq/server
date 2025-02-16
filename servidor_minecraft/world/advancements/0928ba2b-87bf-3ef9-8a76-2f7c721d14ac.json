@@ -47,9 +47,21 @@
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-16 14:40:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-16 14:22:44 +0000"
     },
     "done": true
   },
@@ -58,6 +70,13 @@
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2025-02-16 14:30:59 +0000",
+      "minecraft:zombie": "2025-02-16 14:22:44 +0000"
+    },
+    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -80,6 +99,12 @@
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-16 14:34:03 +0000"
     },
     "done": true
   },
@@ -107,8 +132,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-16 14:22:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-16 14:42:01 +0000",
+      "minecraft:river": "2025-02-16 14:44:30 +0000",
+      "minecraft:dripstone_caves": "2025-02-16 14:32:03 +0000",
+      "minecraft:forest": "2025-02-16 14:40:56 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-16 14:44:31 +0000",
       "minecraft:plains": "2025-02-16 14:21:53 +0000"
     },
     "done": false
@@ -155,9 +191,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-02-16 14:27:17 +0000"
+    },
+    "done": false
+  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-16 14:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-16 14:27:17 +0000"
     },
     "done": true
   },
@@ -179,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-16 14:27:45 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
@@ -197,6 +257,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-16 14:45:49 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
@@ -212,6 +278,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 14:22:58 +0000"
     },
     "done": true
   },
@@ -236,6 +308,12 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-16 14:33:01 +0000"
     },
     "done": true
   },
