@@ -1545,3 +1545,242 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 13:38:17.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> el mod pa ir al espacio es northstar
 [16Feb2025 13:41:13.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Bonk!]
 [16Feb2025 13:42:45.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> tenes hierro ya?
+[16Feb2025 13:43:18.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ahmad2016 lost connection: Timed out
+[16Feb2025 13:43:18.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 left the game
+[16Feb2025 13:46:15.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel[/127.136.83.96:49057] logged in with entity id 22456 at (-383.5, 69.0, -56.5)
+[16Feb2025 13:46:15.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel joined the game
+[16Feb2025 13:46:15.952] [Server thread/INFO] [Jade/]: Syncing config to Daniel (d050033d-d943-35db-933f-15700cf9924e)
+[16Feb2025 13:46:32.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> nigga
+[16Feb2025 13:46:35.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hi
+[16Feb2025 13:46:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> brr skibidi
+[16Feb2025 13:46:51.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> puseh
+[16Feb2025 13:46:54.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wya monkey
+[16Feb2025 13:46:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yes
+[16Feb2025 13:46:59.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wait
+[16Feb2025 13:47:03.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> this fps is ew
+[16Feb2025 13:47:07.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hol on
+[16Feb2025 13:47:29.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yesterday we played ys and fan
+[16Feb2025 13:47:33.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> south london 2 game in roblox
+[16Feb2025 13:47:36.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> we violated everyone
+[16Feb2025 13:47:54.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> cold
+[16Feb2025 13:48:04.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wya
+[16Feb2025 13:48:09.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> in my base
+[16Feb2025 13:48:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> where is ur base
+[16Feb2025 13:48:20.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> check map where i am
+[16Feb2025 13:48:29.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ok
+[16Feb2025 13:48:35.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ah i see
+[16Feb2025 13:48:59.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> im not in a cave
+[16Feb2025 13:49:09.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> u sure
+[16Feb2025 13:49:11.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ye
+[16Feb2025 13:49:21.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Made zfakeinq no longer a server operator]
+[16Feb2025 13:49:25.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> um ok
+[16Feb2025 13:49:35.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cmere
+[16Feb2025 13:49:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> nice one
+[16Feb2025 13:49:51.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> og
+[16Feb2025 13:49:52.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> oh
+[16Feb2025 13:50:12.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ay
+[16Feb2025 13:50:15.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> hi
+[16Feb2025 13:50:16.179] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:16.180] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=932, z=1073200}"
+}
+[16Feb2025 13:50:16.180] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 99 extra bytes: 
+[16Feb2025 13:50:16.180] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<YA'R,sO4 sY20BCw2R7g&+/,0/5"
+]
+[16Feb2025 13:50:17.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hi
+[16Feb2025 13:50:18.719] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:18.719] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1002, z=1073200}"
+}
+[16Feb2025 13:50:18.719] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 13:50:18.720] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-22, -84, 79, -111, 78, 63, 48, -60, 73, -79, 52]"
+]
+[16Feb2025 13:50:20.374] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:20.374] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=773, z=1073200}"
+}
+[16Feb2025 13:50:20.374] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 13:50:20.374] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-15, 66, -76, 61, -80, -43, 115, 73, 108, 114, 51]"
+]
+[16Feb2025 13:50:20.483] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:20.483] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=868, z=1122352}"
+}
+[16Feb2025 13:50:20.483] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 13:50:20.484] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-105, -15, -41, 34, 102, 83, -24, -86, 125, 40, -53]"
+]
+[16Feb2025 13:50:20.584] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:20.585] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=808, z=1073200}"
+}
+[16Feb2025 13:50:20.585] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 13:50:20.585] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-18, 43, -103, 83, -122, 51, -100, -3, -24, 56, -10]"
+]
+[16Feb2025 13:50:22.517] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:22.517] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=893, z=905264}"
+}
+[16Feb2025 13:50:22.517] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 13:50:22.517] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-16, -9, 37, 5, 94, -11, -19, 1, -2, 3, 1]"
+]
+[16Feb2025 13:50:22.613] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:22.613] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=979, z=1073200}"
+}
+[16Feb2025 13:50:22.613] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 34 extra bytes: 
+[16Feb2025 13:50:22.613] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@vG)LgW]T-m a^"
+]
+[16Feb2025 13:50:22.709] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:22.710] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=963, z=1073200}"
+}
+[16Feb2025 13:50:22.710] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 13:50:22.710] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[67, 29, -53, -109, 122, -88, -98, 55, -75, 67, 63]"
+]
+[16Feb2025 13:50:23.265] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:23.266] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=969, z=856112}"
+}
+[16Feb2025 13:50:23.266] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 121 extra bytes: 
+[16Feb2025 13:50:23.266] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "S#T4**>G'E$c(&8,0+/$(k#'g93=<5/p26.ip.gl.ply.gg"
+]
+[16Feb2025 13:50:23.266] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundJigsawGeneratePacket  id 17 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134073_": "BlockPos{x=-13021438, y=1066, z=-5098173}",
+  "f_134074_": 5400,
+  "f_134075_": true
+}
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 17 data of 112 extra bytes: 
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">G'E$c(&8,0+/$(k#'g93=<5/p26.ip.gl.ply.gg"
+]
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundContainerClosePacket  id 12 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133967_": -70
+}
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 12 data of 110 extra bytes: 
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ">G'E$c(&8,0+/$(k#'g93=<5/p26.ip.gl.ply.gg"
+]
+[16Feb2025 13:50:23.267] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundLockDifficultyPacket  id 19 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:23.268] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134105_": true
+}
+[16Feb2025 13:50:23.268] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 19 data of 138 extra bytes: 
+[16Feb2025 13:50:23.268] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "'E$c(&8,0+/$(k#'g93=<5/p26.ip.gl.ply.gg#0."
+]
+[16Feb2025 13:50:23.268] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:23.269] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 0
+}
+[16Feb2025 13:50:23.269] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 147 extra bytes: 
+[16Feb2025 13:50:23.269] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "8,0+/$(k#'g93=<5/p26.ip.gl.ply.gg#0."
+]
+[16Feb2025 13:50:23.269] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:23.269] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 56
+}
+[16Feb2025 13:50:23.269] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 146 extra bytes: 
+[16Feb2025 13:50:23.270] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  ",0+/$(k#'g93=<5/p26.ip.gl.ply.gg#0."
+]
+[16Feb2025 13:50:23.270] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundAcceptTeleportationPacket  id 0 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 13:50:23.270] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133785_": 598046
+}
+[16Feb2025 13:50:23.270] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 0 data of 137 extra bytes: 
+[16Feb2025 13:50:23.270] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "(k#'g93=<5/p26.ip.gl.ply.gg#0."
+]
+[16Feb2025 13:50:29.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> the fuck u lookin at with that hairline nigga
+[16Feb2025 13:50:30.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wait
+[16Feb2025 13:50:33.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> LO
+[16Feb2025 13:50:37.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> like bro
+[16Feb2025 13:50:38.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> look at me
+[16Feb2025 13:50:39.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ima ss
+[16Feb2025 13:50:46.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> blud ur black
+[16Feb2025 13:51:25.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ys left
+[16Feb2025 13:51:27.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> what a pussy
+[16Feb2025 13:51:41.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hahahahah
+[16Feb2025 13:51:43.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> anyways
+[16Feb2025 13:51:44.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hes a monkey
+[16Feb2025 13:51:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> you'll team up with
+[16Feb2025 13:51:46.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> fan
+[16Feb2025 13:51:52.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ok?
+[16Feb2025 13:51:54.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> and u with who
+[16Feb2025 13:52:01.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> idk
+[16Feb2025 13:52:06.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> lonely wolf
+[16Feb2025 13:52:11.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> you will go
+[16Feb2025 13:52:12.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> with fan
+[16Feb2025 13:52:13.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i go with
+[16Feb2025 13:52:18.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> one of my friends
+[16Feb2025 13:52:19.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> then
+[16Feb2025 13:52:24.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ys will go
+[16Feb2025 13:52:25.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> with
+[16Feb2025 13:52:31.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> another of my friends
+[16Feb2025 13:52:33.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ok
+[16Feb2025 13:52:33.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> then
+[16Feb2025 13:52:36.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> which is colombian
+[16Feb2025 13:52:43.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> they botta do cocaine
+[16Feb2025 13:52:44.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i remember a guy named burger
+[16Feb2025 13:52:45.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and
+[16Feb2025 13:52:55.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> some portuguese dude which is also my frend
+[16Feb2025 13:53:00.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> cold
+[16Feb2025 13:53:03.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> with one of my ukranian friends
+[16Feb2025 13:53:10.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> how is bro not dead

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d050033dd94335db933f15700cf9924e"
+	name: "Daniel#d050033d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
