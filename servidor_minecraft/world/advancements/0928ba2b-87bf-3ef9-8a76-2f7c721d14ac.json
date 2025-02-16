@@ -5,12 +5,6 @@
     },
     "done": true
   },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-02-16 16:25:53 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
@@ -47,40 +41,9 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "jacaranda_glade": "2025-02-16 15:48:37 +0000",
-      "cold_desert": "2025-02-16 15:56:17 +0000",
-      "bog": "2025-02-16 16:02:05 +0000",
-      "coniferous_forest": "2025-02-16 14:22:29 +0000",
-      "redwood_forest": "2025-02-16 14:58:26 +0000",
-      "aspen_glade": "2025-02-16 15:53:41 +0000",
-      "seasonal_forest": "2025-02-16 15:50:12 +0000",
-      "pumpkin_patch": "2025-02-16 15:49:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-02-16 14:40:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-02-16 15:27:13 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-02-16 14:22:44 +0000"
     },
     "done": true
   },
@@ -89,15 +52,6 @@
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_all_mobs": {
-    "criteria": {
-      "minecraft:skeleton": "2025-02-16 16:13:16 +0000",
-      "minecraft:spider": "2025-02-16 15:25:56 +0000",
-      "minecraft:creeper": "2025-02-16 14:30:59 +0000",
-      "minecraft:zombie": "2025-02-16 14:22:44 +0000"
-    },
-    "done": false
   },
   "mekanism:root": {
     "criteria": {
@@ -117,33 +71,9 @@
     },
     "done": true
   },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-02-16 16:16:29 +0000"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2025-02-16 16:25:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-02-16 16:13:11 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-02-16 14:34:03 +0000"
     },
     "done": true
   },
@@ -170,29 +100,6 @@
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2025-02-16 14:22:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:frozen_river": "2025-02-16 15:56:10 +0000",
-      "minecraft:birch_forest": "2025-02-16 14:42:01 +0000",
-      "minecraft:river": "2025-02-16 14:44:30 +0000",
-      "minecraft:snowy_plains": "2025-02-16 15:54:53 +0000",
-      "minecraft:dripstone_caves": "2025-02-16 14:32:03 +0000",
-      "minecraft:swamp": "2025-02-16 16:02:01 +0000",
-      "minecraft:cold_ocean": "2025-02-16 15:58:28 +0000",
-      "minecraft:forest": "2025-02-16 14:40:56 +0000",
-      "minecraft:frozen_ocean": "2025-02-16 15:56:08 +0000",
-      "minecraft:snowy_beach": "2025-02-16 15:55:05 +0000",
-      "minecraft:old_growth_birch_forest": "2025-02-16 14:44:31 +0000",
-      "minecraft:plains": "2025-02-16 14:21:53 +0000"
-    },
-    "done": false
   },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
@@ -236,82 +143,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "cooked_mutton": "2025-02-16 14:27:17 +0000",
-      "cooked_chicken": "2025-02-16 15:23:14 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
     },
     "done": true
   },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-02-16 14:23:19 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-02-16 16:20:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-16 14:27:17 +0000"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2025-02-16 16:23:59 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-02-16 14:22:25 +0000"
-    },
-    "done": true
-  },
-  "northstar:root": {
-    "criteria": {
-      "0": "2025-02-16 14:22:25 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-02-16 14:22:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-02-16 15:31:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-02-16 14:27:45 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-02-16 14:56:58 +0000"
     },
     "done": true
   },
@@ -327,33 +167,15 @@
     },
     "done": true
   },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-02-16 14:45:49 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "coniferous_forest": "2025-02-16 14:22:29 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-02-16 14:22:58 +0000"
     },
     "done": true
   },
@@ -381,9 +203,188 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-02-16 15:56:10 +0000",
+      "minecraft:birch_forest": "2025-02-16 14:42:01 +0000",
+      "minecraft:river": "2025-02-16 14:44:30 +0000",
+      "minecraft:snowy_plains": "2025-02-16 15:54:53 +0000",
+      "minecraft:dripstone_caves": "2025-02-16 14:32:03 +0000",
+      "minecraft:swamp": "2025-02-16 16:02:01 +0000",
+      "minecraft:cold_ocean": "2025-02-16 15:58:28 +0000",
+      "minecraft:forest": "2025-02-16 14:40:56 +0000",
+      "minecraft:frozen_ocean": "2025-02-16 15:56:08 +0000",
+      "minecraft:snowy_beach": "2025-02-16 15:55:05 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-16 14:44:31 +0000",
+      "minecraft:plains": "2025-02-16 14:21:53 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-16 14:22:25 +0000"
+    },
+    "done": true
+  },
+  "northstar:root": {
+    "criteria": {
+      "0": "2025-02-16 14:22:25 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-16 14:22:25 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "jacaranda_glade": "2025-02-16 15:48:37 +0000",
+      "cold_desert": "2025-02-16 15:56:17 +0000",
+      "bog": "2025-02-16 16:02:05 +0000",
+      "coniferous_forest": "2025-02-16 14:22:29 +0000",
+      "redwood_forest": "2025-02-16 14:58:26 +0000",
+      "aspen_glade": "2025-02-16 15:53:41 +0000",
+      "seasonal_forest": "2025-02-16 15:50:12 +0000",
+      "pumpkin_patch": "2025-02-16 15:49:00 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-02-16 14:22:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-16 14:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-16 16:13:16 +0000",
+      "minecraft:spider": "2025-02-16 15:25:56 +0000",
+      "minecraft:creeper": "2025-02-16 14:30:59 +0000",
+      "minecraft:zombie": "2025-02-16 14:22:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-16 14:22:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 14:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-16 14:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2025-02-16 14:27:17 +0000",
+      "bread": "2025-02-16 18:14:59 +0000",
+      "cooked_chicken": "2025-02-16 15:23:14 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-16 14:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-16 14:27:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-02-16 14:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-16 14:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-16 14:40:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-02-16 14:45:49 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-16 14:56:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-16 15:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-16 15:31:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-16 16:13:11 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-02-16 16:16:29 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-02-16 16:20:27 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-16 16:23:59 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-02-16 16:25:22 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-02-16 16:25:53 +0000"
     },
     "done": true
   },
