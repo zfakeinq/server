@@ -5227,3 +5227,14 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 21:15:39.934] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -4059 2 -2501 in 0s
 [16Feb2025 21:16:05.240] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-365, y=-32, z=106} BlockPos{x=-366, y=-32, z=107}
 [16Feb2025 21:18:55.965] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 1230 -56 -1540 in 0s
+[16Feb2025 21:22:01.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[16Feb2025 21:22:10.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 was slain by Zombie
+[16Feb2025 21:22:16.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 21:22:24.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set MiloDog1's game mode to Spectator Mode]
+[16Feb2025 21:22:38.947] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at -8898 -56 9619 in 2s
+[16Feb2025 21:23:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[16Feb2025 21:23:04.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 21:23:18.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set MiloDog1's game mode to Survival Mode]
+[16Feb2025 21:25:22.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 21:26:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 tried to swim in lava
+[16Feb2025 21:26:19.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
