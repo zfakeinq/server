@@ -43,8 +43,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "jacaranda_glade": "2025-02-16 15:48:37 +0000",
+      "cold_desert": "2025-02-16 15:56:17 +0000",
+      "bog": "2025-02-16 16:02:05 +0000",
       "coniferous_forest": "2025-02-16 14:22:29 +0000",
-      "redwood_forest": "2025-02-16 14:58:26 +0000"
+      "redwood_forest": "2025-02-16 14:58:26 +0000",
+      "aspen_glade": "2025-02-16 15:53:41 +0000",
+      "seasonal_forest": "2025-02-16 15:50:12 +0000",
+      "pumpkin_patch": "2025-02-16 15:49:00 +0000"
     },
     "done": false
   },
@@ -148,10 +154,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:frozen_river": "2025-02-16 15:56:10 +0000",
       "minecraft:birch_forest": "2025-02-16 14:42:01 +0000",
       "minecraft:river": "2025-02-16 14:44:30 +0000",
+      "minecraft:snowy_plains": "2025-02-16 15:54:53 +0000",
       "minecraft:dripstone_caves": "2025-02-16 14:32:03 +0000",
+      "minecraft:swamp": "2025-02-16 16:02:01 +0000",
+      "minecraft:cold_ocean": "2025-02-16 15:58:28 +0000",
       "minecraft:forest": "2025-02-16 14:40:56 +0000",
+      "minecraft:frozen_ocean": "2025-02-16 15:56:08 +0000",
+      "minecraft:snowy_beach": "2025-02-16 15:55:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 14:44:31 +0000",
       "minecraft:plains": "2025-02-16 14:21:53 +0000"
     },
