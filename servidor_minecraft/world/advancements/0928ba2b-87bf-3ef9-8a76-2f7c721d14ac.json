@@ -43,7 +43,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2025-02-16 14:22:29 +0000"
+      "coniferous_forest": "2025-02-16 14:22:29 +0000",
+      "redwood_forest": "2025-02-16 14:58:26 +0000"
     },
     "done": false
   },
@@ -242,6 +243,12 @@
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-02-16 14:56:58 +0000"
     },
     "done": true
   },
