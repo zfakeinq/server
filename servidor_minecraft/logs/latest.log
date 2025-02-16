@@ -4171,3 +4171,82 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 18:51:13.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> mb
 [16Feb2025 18:55:29.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel lost connection: Disconnected
 [16Feb2025 18:55:29.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel left the game
+[16Feb2025 18:59:03.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel[/127.136.83.96:58473] logged in with entity id 128883 at (-299.5180464385816, 72.0, -45.69999998807907)
+[16Feb2025 18:59:03.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel joined the game
+[16Feb2025 18:59:03.341] [Server thread/INFO] [Jade/]: Syncing config to Daniel (d050033d-d943-35db-933f-15700cf9924e)
+[16Feb2025 18:59:13.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hi nickers
+[16Feb2025 18:59:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> hi
+[16Feb2025 18:59:22.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> is zf here
+[16Feb2025 18:59:33.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Yes but he's dead
+[16Feb2025 18:59:39.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> e
+[16Feb2025 19:00:33.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How r u doin?
+[16Feb2025 19:00:36.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> gud
+[16Feb2025 19:01:42.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cap
+[16Feb2025 19:01:51.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> capn't
+[16Feb2025 19:01:57.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Lol
+[16Feb2025 19:01:57.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> fan
+[16Feb2025 19:02:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Jawohl?
+[16Feb2025 19:02:01.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> what did i tell u about doing bases
+[16Feb2025 19:02:05.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Wdym
+[16Feb2025 19:02:13.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> why the fuck are u on another continent
+[16Feb2025 19:02:13.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I am not outside the continent
+[16Feb2025 19:02:16.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> u said nun abt them
+[16Feb2025 19:02:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> sorry
+[16Feb2025 19:02:23.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> on another FUCKING
+[16Feb2025 19:02:24.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> galaxy
+[16Feb2025 19:02:29.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> It's just ONE KILOMETER
+[16Feb2025 19:02:37.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> It's literally walkabale distance
+[16Feb2025 19:02:39.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> WHAT THE FUCK
+[16Feb2025 19:02:41.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> IS A KILOMETER
+[16Feb2025 19:02:44.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> what the fuck is a kilometer
+[16Feb2025 19:02:48.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> anyways
+[16Feb2025 19:02:51.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> tmrw will come 2 new ones
+[16Feb2025 19:02:52.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> 0.6 freedom units i think
+[16Feb2025 19:03:03.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What new ones?
+[16Feb2025 19:03:07.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> dudes
+[16Feb2025 19:03:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 19:03:17.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Are they mentally competent?
+[16Feb2025 19:03:25.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> depends
+[16Feb2025 19:03:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> huh
+[16Feb2025 19:03:31.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> one is ukranian
+[16Feb2025 19:03:36.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> the other one is a smarty
+[16Feb2025 19:03:40.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> what the fuck is this tree
+[16Feb2025 19:03:48.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> sunny trumpet
+[16Feb2025 19:03:49.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Define smarty
+[16Feb2025 19:03:55.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> hes kind of smart
+[16Feb2025 19:03:57.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Does he know how to make an automic weapon?
+[16Feb2025 19:04:00.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> who
+[16Feb2025 19:04:04.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> idk
+[16Feb2025 19:04:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and also another dude
+[16Feb2025 19:04:49.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> will come
+[16Feb2025 19:04:49.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> fan what the fuck
+[16Feb2025 19:04:52.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i think i see you
+[16Feb2025 19:04:53.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What?
+[16Feb2025 19:04:55.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> which is the colombian one
+[16Feb2025 19:05:01.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> anyways
+[16Feb2025 19:05:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yall got teams alr?
+[16Feb2025 19:05:07.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ye
+[16Feb2025 19:05:11.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> im with fan
+[16Feb2025 19:05:11.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Define teams
+[16Feb2025 19:05:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> daniel u who
+[16Feb2025 19:05:18.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> allegedly
+[16Feb2025 19:05:22.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> fan shut up
+[16Feb2025 19:05:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> just keep in mind
+[16Feb2025 19:05:38.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> if a war breaks out
+[16Feb2025 19:05:40.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cof
+[16Feb2025 19:05:45.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ys will die first
+[16Feb2025 19:05:49.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> lo
+[16Feb2025 19:05:57.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> nigga died 20 times
+[16Feb2025 19:05:58.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> alreayd
+[16Feb2025 19:06:01.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> he said he kept falling down or died bc of a zombie
+[16Feb2025 19:06:06.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> lmfao
+[16Feb2025 19:06:12.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 19:06:13.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> And you wantd to add a limited lives mod
+[16Feb2025 19:06:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 19:06:30.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 19:06:31.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[16Feb2025 19:06:39.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 19:06:42.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I need hold.... must eat gold
+[16Feb2025 19:06:53.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> oh wait, i ahve spare hay bales thbat i stole
+[16Feb2025 19:07:03.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yall know there are also guns
+[16Feb2025 19:07:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> right

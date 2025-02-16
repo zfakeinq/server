@@ -390,6 +390,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-02-16 18:53:37 +0000"
+    },
+    "done": false
+  },
   "create:mechanical_mixer": {
     "criteria": {
       "0": "2025-02-16 18:47:08 +0000"
@@ -399,6 +405,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-02-16 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "create:millstone": {
+    "criteria": {
+      "0": "2025-02-16 18:53:10 +0000"
     },
     "done": true
   },

@@ -311,9 +311,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "tamed_animal": "2025-02-16 18:48:03 +0000"
+      "iron": "2025-02-16 18:12:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-02-16 18:13:56 +0000"
     },
     "done": true
   },
@@ -329,15 +335,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "shot_crossbow": "2025-02-16 18:13:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-02-16 18:12:13 +0000"
+      "tamed_animal": "2025-02-16 18:48:03 +0000"
     },
     "done": true
   },
