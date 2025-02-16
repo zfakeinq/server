@@ -1,0 +1,17 @@
+{
+	id: "24850d6e-4161-4ab9-8961-654cd1dd41b0"
+	type: "party"
+	owner: "781296b7-cb0e-3f07-94b1-125f7cf766d1"
+	ranks: {
+		781296b7-cb0e-3f07-94b1-125f7cf766d1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Esquizofrenicos"
+		"ftbteams:description": "si"
+		"ftbteams:color": "#AA0000"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1739714311439L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"zfakeinq\"}]}" }]
+	extra: { }
+}

@@ -285,12 +285,6 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "coniferous_forest": "2025-02-16 13:16:27 +0000"
-    },
-    "done": false
-  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2025-02-16 13:11:53 +0000"
@@ -302,6 +296,12 @@
       "minecraft:zombie": "2025-02-16 13:11:53 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2025-02-16 13:16:27 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {

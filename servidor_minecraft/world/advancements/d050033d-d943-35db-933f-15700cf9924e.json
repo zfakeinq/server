@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-02-16 13:53:56 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_the_recipe": "2025-02-16 13:46:15 +0000"
@@ -103,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:forest": "2025-02-16 13:54:52 +0000",
       "minecraft:plains": "2025-02-16 13:46:16 +0000"
     },
     "done": false
@@ -155,6 +162,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-16 14:00:51 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2025-02-16 13:48:18 +0000"
@@ -200,6 +213,12 @@
   "comforts:sleeping_bag_green": {
     "criteria": {
       "has_the_recipe": "2025-02-16 13:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 13:58:08 +0000"
     },
     "done": true
   },

@@ -2,9 +2,7 @@
 	id: "781296b7-cb0e-3f07-94b1-125f7cf766d1"
 	type: "player"
 	player_name: "zfakeinq"
-	ranks: {
-		781296b7-cb0e-3f07-94b1-125f7cf766d1: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "zfakeinq"
 		"ftbteams:description": ""

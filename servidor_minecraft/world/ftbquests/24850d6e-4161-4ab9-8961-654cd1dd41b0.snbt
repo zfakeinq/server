@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "24850d6e41614ab98961654cd1dd41b0"
+	name: "Esquizofrenicos#24850d6e"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
