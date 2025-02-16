@@ -246,6 +246,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-16 13:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-02-16 12:46:32 +0000"
@@ -254,13 +260,20 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-02-16 13:01:39 +0000"
+      "minecraft:skeleton": "2025-02-16 13:01:39 +0000",
+      "minecraft:zombie": "2025-02-16 13:03:32 +0000"
     },
     "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2025-02-16 13:01:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-16 13:06:18 +0000"
     },
     "done": true
   },
@@ -279,6 +292,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-02-16 12:51:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-16 13:06:25 +0000"
     },
     "done": true
   },

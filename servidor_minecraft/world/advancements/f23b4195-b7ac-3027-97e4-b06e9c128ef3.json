@@ -41,21 +41,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-02-16 12:53:34 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-02-16 12:42:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2025-02-16 12:52:25 +0000"
     },
     "done": true
   },
@@ -113,12 +101,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:plains": "2025-02-16 12:42:02 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2025-02-16 12:42:01 +0000"
@@ -161,51 +143,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "porkchop": "2025-02-16 12:56:34 +0000"
-    },
-    "done": false
-  },
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-16 12:42:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-02-16 12:49:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-02-16 12:56:34 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-02-16 12:46:23 +0000"
-    },
-    "done": true
-  },
-  "northstar:root": {
-    "criteria": {
-      "0": "2025-02-16 12:46:23 +0000"
-    },
-    "done": true
-  },
-  "create:root": {
-    "criteria": {
-      "0": "2025-02-16 12:46:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-02-16 12:50:25 +0000"
     },
     "done": true
   },
@@ -239,12 +179,6 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-02-16 12:48:08 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2025-02-16 12:42:01 +0000"
@@ -266,6 +200,96 @@
   "comforts:hammock_green": {
     "criteria": {
       "has_the_recipe": "2025-02-16 12:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-02-16 12:42:02 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-16 12:46:23 +0000"
+    },
+    "done": true
+  },
+  "northstar:root": {
+    "criteria": {
+      "0": "2025-02-16 12:46:23 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-16 12:46:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-02-16 12:48:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-02-16 12:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-16 12:50:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-02-16 12:52:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-16 12:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2025-02-16 12:56:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-02-16 12:56:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-16 13:03:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-16 13:03:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-16 13:11:53 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-02-16 13:11:53 +0000"
     },
     "done": true
   },

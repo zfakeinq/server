@@ -1104,3 +1104,37 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 13:02:30.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> que mod
 [16Feb2025 13:02:32.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> alex caves?
 [16Feb2025 13:02:38.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> no
+[16Feb2025 13:02:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> q mod
+[16Feb2025 13:02:59.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> supplementaries
+[16Feb2025 13:03:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> OSITA
+[16Feb2025 13:03:07.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> LO QUE HACE
+[16Feb2025 13:03:09.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> lo he gastado
+[16Feb2025 13:03:12.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 has made the advancement [Acquire Hardware]
+[16Feb2025 13:03:39.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 has made the advancement [Isn't It Iron Pick]
+[16Feb2025 13:04:30.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 drowned
+[16Feb2025 13:05:31.830] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ahmad2016 lost connection: Disconnected
+[16Feb2025 13:05:31.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 left the game
+[16Feb2025 13:05:31.882] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[16Feb2025 13:06:15.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Alex's Caves]
+[16Feb2025 13:06:18.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [It Belongs in a Museum]
+[16Feb2025 13:06:25.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Once Upon a Cave]
+[16Feb2025 13:06:32.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ahmad2016[/127.11.241.14:36263] logged in with entity id 11874 at (-592.7458179745199, -2.761244276909604, 55.30000001192093)
+[16Feb2025 13:06:32.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 joined the game
+[16Feb2025 13:06:32.740] [Server thread/INFO] [Jade/]: Syncing config to ahmad2016 (f23b4195-b7ac-3027-97e4-b06e9c128ef3)
+[16Feb2025 13:09:14.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> tienes tus cosas?
+[16Feb2025 13:09:19.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> hermano
+[16Feb2025 13:09:23.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> un zombie con espada de hierro
+[16Feb2025 13:09:27.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> XD
+[16Feb2025 13:09:48.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 drowned
+[16Feb2025 13:09:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> buena
+[16Feb2025 13:09:58.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> bah me da igual
+[16Feb2025 13:10:08.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> ya habra desaparecido
+[16Feb2025 13:10:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> no creo
+[16Feb2025 13:11:10.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made zfakeinq a server operator
+[16Feb2025 13:11:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 13:11:20.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> es de noche?
+[16Feb2025 13:11:24.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> si
+[16Feb2025 13:11:28.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Gamerule playersSleepingPercentage is now set to: 2]
+[16Feb2025 13:11:39.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 13:11:53.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 has made the advancement [Monster Hunter]
+[16Feb2025 13:11:54.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
