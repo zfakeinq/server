@@ -331,5 +331,11 @@
     },
     "done": true
   },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-02-16 13:19:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
