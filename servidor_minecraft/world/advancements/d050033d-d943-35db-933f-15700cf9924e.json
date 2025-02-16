@@ -205,8 +205,13 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-02-16 19:12:10 +0000",
+      "minecraft:beach": "2025-02-16 19:03:26 +0000",
+      "minecraft:river": "2025-02-16 19:09:51 +0000",
       "minecraft:dripstone_caves": "2025-02-16 14:33:04 +0000",
       "minecraft:forest": "2025-02-16 13:54:52 +0000",
+      "minecraft:windswept_forest": "2025-02-16 19:11:01 +0000",
+      "minecraft:old_growth_birch_forest": "2025-02-16 19:10:49 +0000",
       "minecraft:plains": "2025-02-16 13:46:16 +0000"
     },
     "done": false
@@ -338,6 +343,21 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-02-16 18:48:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "coniferous_forest": "2025-02-16 19:05:17 +0000",
+      "redwood_forest": "2025-02-16 19:07:20 +0000",
+      "prairie": "2025-02-16 19:05:07 +0000",
+      "ominous_woods": "2025-02-16 19:07:19 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "prairie": "2025-02-16 19:05:07 +0000"
     },
     "done": true
   },

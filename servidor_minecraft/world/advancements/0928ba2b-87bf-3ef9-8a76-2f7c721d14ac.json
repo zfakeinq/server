@@ -432,6 +432,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-02-16 19:06:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-02-16 18:27:38 +0000"
