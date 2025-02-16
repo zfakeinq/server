@@ -5339,3 +5339,10 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 21:57:14.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
 [16Feb2025 21:57:40.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
 [16Feb2025 21:57:41.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 22:00:20.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Mine Turtle!]
+[16Feb2025 22:00:33.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 22:00:35.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiloDog1 lost connection: Disconnected
+[16Feb2025 22:00:35.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 left the game
+[16Feb2025 22:00:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 22:00:57.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zfakeinq lost connection: Disconnected
+[16Feb2025 22:00:57.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq left the game

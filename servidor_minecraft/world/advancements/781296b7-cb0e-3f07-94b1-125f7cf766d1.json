@@ -506,6 +506,12 @@
     },
     "done": false
   },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-02-16 22:00:20 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/toxic_paste": {
     "criteria": {
       "toxic_paste": "2025-02-16 20:09:39 +0000"
