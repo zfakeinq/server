@@ -3893,3 +3893,213 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 18:25:20.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> what
 [16Feb2025 18:25:32.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> le lava basin coordinates?
 [16Feb2025 18:25:42.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> yes
+[16Feb2025 18:26:45.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Nvm
+[16Feb2025 18:26:48.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> no need anymore
+[16Feb2025 18:26:51.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I found my own lava pool
+[16Feb2025 18:26:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> oh ok
+[16Feb2025 18:27:04.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I no longer need to reveal my location
+[16Feb2025 18:27:24.783] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:24.783] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=907, z=1073200}"
+}
+[16Feb2025 18:27:24.783] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 18:27:24.783] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-84, 102, -81, 92, 91, -114, -67, -94, 121, 34, 69]"
+]
+[16Feb2025 18:27:25.095] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:25.095] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=921, z=1073200}"
+}
+[16Feb2025 18:27:25.095] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 115 extra bytes: 
+[16Feb2025 18:27:25.095] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "@7q:!o.:Bia. bx~@!R`d12&+/,0/5"
+]
+[16Feb2025 18:27:25.096] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChatAckPacket  id 3 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:25.096] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_244085_": 1650
+}
+[16Feb2025 18:27:25.096] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 3 data of 144 extra bytes: 
+[16Feb2025 18:27:25.096] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "2&+/,0/526.ip.gl.ply.gg+3&"
+]
+[16Feb2025 18:27:25.096] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundSelectTradePacket  id 38 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:25.097] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134459_": 5568
+}
+[16Feb2025 18:27:25.097] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 38 data of 172 extra bytes: 
+[16Feb2025 18:27:25.097] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "/,0/526.ip.gl.ply.gg+3& p24sWF(0o"
+]
+[16Feb2025 18:27:25.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i bet i can find u
+[16Feb2025 18:27:26.056] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:26.057] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=785, z=1073200}"
+}
+[16Feb2025 18:27:26.057] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 18:27:26.057] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[82, -110, 57, 60, -18, 90, -11, 102, -92, 93, -85]"
+]
+[16Feb2025 18:27:26.789] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:26.789] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=915, z=1073200}"
+}
+[16Feb2025 18:27:26.789] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 18:27:26.790] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-37, 10, 6, 0, 48, -9, -51, -8, -55, -30, -9]"
+]
+[16Feb2025 18:27:28.568] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:28.569] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1021, z=1073200}"
+}
+[16Feb2025 18:27:28.569] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 18:27:28.569] [Netty Epoll Server IO #6/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[101, 25, 69, 92, 33, 30, -81, -102, 104, 87, 124]"
+]
+[16Feb2025 18:27:29.252] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:29.253] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=769, z=1073200}"
+}
+[16Feb2025 18:27:29.253] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 42 extra bytes: 
+[16Feb2025 18:27:29.253] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "n-yZ;fJ^/#V.yU jPsx&"
+]
+[16Feb2025 18:27:29.304] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:29.304] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=905, z=1073200}"
+}
+[16Feb2025 18:27:29.304] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 18:27:29.304] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[82, -24, -52, 110, -29, 12, 23, -57, 51, 39, -101]"
+]
+[16Feb2025 18:27:38.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor has made the advancement [Ice Bucket Challenge]
+[16Feb2025 18:27:46.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Is there something bad about u doing that?
+[16Feb2025 18:27:51.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> idk
+[16Feb2025 18:27:51.417] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:51.417] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=921, z=1122352}"
+}
+[16Feb2025 18:27:51.417] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 18:27:51.417] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-51, -126, -28, 92, -99, -26, 120, -43, 44, 70, 29]"
+]
+[16Feb2025 18:27:53.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> is there
+[16Feb2025 18:27:53.145] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:53.146] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=771, z=905264}"
+}
+[16Feb2025 18:27:53.146] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 61 extra bytes: 
+[16Feb2025 18:27:53.146] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "hkG8+XG{hf0</"
+]
+[16Feb2025 18:27:53.497] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:53.498] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=918, z=856112}"
+}
+[16Feb2025 18:27:53.498] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 96 extra bytes: 
+[16Feb2025 18:27:53.498] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "ysCcz=U>%0ZK8,0+/$(k#'g93=<5/p"
+]
+[16Feb2025 18:27:53.498] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundChangeDifficultyPacket  id 2 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:53.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133814_": "NORMAL"
+}
+[16Feb2025 18:27:53.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 2 data of 165 extra bytes: 
+[16Feb2025 18:27:53.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "U>%0ZK8,0+/$(k#'g93=<5/p26.ip.gl.ply.gg0."
+]
+[16Feb2025 18:27:53.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundTeleportToEntityPacket  id 48 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 18:27:53.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_134677_": "e71c5ab5-b34b-fbe6-0000-38c02cc03000"
+}
+[16Feb2025 18:27:53.499] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 48 data of 148 extra bytes: 
+[16Feb2025 18:27:53.500] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "+/$(k#'g93=<5/p26.ip.gl.ply.gg0."
+]
+[16Feb2025 18:30:20.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What's ur name for ur base daniel?
+[16Feb2025 18:30:30.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> idk
+[16Feb2025 18:30:32.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> also
+[16Feb2025 18:30:38.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> why is my torch not working
+[16Feb2025 18:30:43.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> wdym
+[16Feb2025 18:30:44.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i have it in my left hand but it doesnt work
+[16Feb2025 18:30:58.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Cus the mod for that is not installed
+[16Feb2025 18:31:03.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> shit
+[16Feb2025 18:31:32.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> useless cave
+[16Feb2025 18:31:54.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> ew, birch
+[16Feb2025 18:31:59.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hell nah
+[16Feb2025 18:32:02.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> EW, IT TOUCHED ME
+[16Feb2025 18:32:14.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> mine it and drop it into lava bro
+[16Feb2025 18:32:24.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I just turn it into charcoal
+[16Feb2025 18:32:29.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> rue
+[16Feb2025 18:32:31.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> true
+[16Feb2025 18:32:43.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel fell from a high place
+[16Feb2025 18:32:46.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wow
+[16Feb2025 18:33:15.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Also, i have the location of a village if u want
+[16Feb2025 18:33:21.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> oo
+[16Feb2025 18:33:22.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> can i get
+[16Feb2025 18:33:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Sure, but it'll cost you
+[16Feb2025 18:33:37.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> cost what
+[16Feb2025 18:33:42.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> 5 iron
+[16Feb2025 18:33:45.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> im poor
+[16Feb2025 18:33:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i have 1
+[16Feb2025 18:33:49.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> is that enough
+[16Feb2025 18:33:56.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wait
+[16Feb2025 18:34:07.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> 1 smithing template and 1 iron?
+[16Feb2025 18:34:10.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> pretty ples?
+[16Feb2025 18:34:16.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What smithing template?
+[16Feb2025 18:34:23.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> armor
+[16Feb2025 18:34:35.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> get back to me when you got what i'm asking for
+[16Feb2025 18:34:40.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> fuck you
+[16Feb2025 18:34:55.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ok then
+[16Feb2025 18:35:32.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> um
+[16Feb2025 18:35:37.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> theres floating land
+[16Feb2025 18:35:40.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> aint that rare
+[16Feb2025 18:35:48.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I can make blocks float
+[16Feb2025 18:35:57.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> well its natural
+[16Feb2025 18:36:15.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> mob spawner
+[16Feb2025 18:36:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> AW Y
+[16Feb2025 18:36:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> AW YE
+[16Feb2025 18:36:32.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> theres many iron here

@@ -388,5 +388,17 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-16 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-16 18:27:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
