@@ -3183,3 +3183,87 @@ java.lang.IllegalStateException: Nesting problem.
   "<partial numeric data>",
   "[-67, -101, 116, -26, -108, -100, 114, 25, 38, 45, -27, -101, 11, -47, 59, 27, -53, 9, 90, -37, -46, 32, -87, -96, 6, -42]"
 ]
+[16Feb2025 17:15:40.851] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 17:15:40.851] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=1020, z=1122352}"
+}
+[16Feb2025 17:15:40.851] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 17:15:40.851] [Netty Epoll Server IO #4/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[41, -11, -124, -22, 109, -11, 82, 108, -109, -106, 87]"
+]
+[16Feb2025 17:15:41.724] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 17:15:41.725] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=825, z=905264}"
+}
+[16Feb2025 17:15:41.725] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[16Feb2025 17:15:41.726] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[44, -45, -5, 56, -29, -50, 18, 78, 72, 65, -42]"
+]
+[16Feb2025 17:15:42.512] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[16Feb2025 17:15:42.513] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=966, z=856112}"
+}
+[16Feb2025 17:15:42.513] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 52 extra bytes: 
+[16Feb2025 17:15:42.513] [Netty Epoll Server IO #7/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Nbd&RTWnUj8,0+/"
+]
+[16Feb2025 17:17:12.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 was blown up by Creeper
+[16Feb2025 17:17:20.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zfakeinq[/127.162.19.129:41619] logged in with entity id 98308 at (-457.353350363552, 72.0, 37.913265820585394)
+[16Feb2025 17:17:20.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq joined the game
+[16Feb2025 17:17:20.873] [Server thread/INFO] [Jade/]: Syncing config to zfakeinq (781296b7-cb0e-3f07-94b1-125f7cf766d1)
+[16Feb2025 17:17:44.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-391, y=68, z=-66}
+[16Feb2025 17:17:56.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[16Feb2025 17:18:02.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-385, y=70, z=-74}
+[16Feb2025 17:18:02.488] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-384, y=70, z=-74}
+[16Feb2025 17:18:02.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-383, y=70, z=-74}
+[16Feb2025 17:18:05.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 17:18:06.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 17:18:15.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cuantas veces has muerto?
+[16Feb2025 17:18:25.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> no se
+[16Feb2025 17:18:27.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> EEEE
+[16Feb2025 17:18:28.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 was slain by Zombie
+[16Feb2025 17:18:40.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 17:18:44.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 17:18:46.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> que tal
+[16Feb2025 17:18:50.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Gamerule keepInventory is now set to: true]
+[16Feb2025 17:18:52.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> como 14?
+[16Feb2025 17:18:53.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> donde has muerto
+[16Feb2025 17:18:56.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 17:19:00.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ?
+[16Feb2025 17:19:01.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> en una puta mina
+[16Feb2025 17:19:04.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set ahmad2016's game mode to Spectator Mode]
+[16Feb2025 17:19:06.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ve
+[16Feb2025 17:19:15.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> han desapwneado
+[16Feb2025 17:19:19.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> joder
+[16Feb2025 17:19:20.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> bueno ti
+[16Feb2025 17:19:23.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> tio
+[16Feb2025 17:19:28.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> creo q ha empezar de nuevo
+[16Feb2025 17:19:34.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> .
+[16Feb2025 17:19:34.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> a y hazte armadura de cobre iglipollas
+[16Feb2025 17:19:42.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> tenia armadura de osmio
+[16Feb2025 17:19:46.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> es mil veces mejor
+[16Feb2025 17:19:53.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> pero la de cobre mas barata gil
+[16Feb2025 17:20:15.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> a y me he encontrado u spawner
+[16Feb2025 17:20:30.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> ahi es donde mori
+[16Feb2025 17:20:40.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> donde habia un caja de mobs y spawner
+[16Feb2025 17:21:21.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> survival?
+[16Feb2025 17:21:34.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> porfa
+[16Feb2025 17:21:45.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> oye
+[16Feb2025 17:21:54.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set ahmad2016's game mode to Survival Mode]
+[16Feb2025 17:21:58.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> rx
+[16Feb2025 17:22:13.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 has made the advancement [Crops of the Wild]
+[16Feb2025 17:22:33.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> nye jejejeje
+[16Feb2025 17:23:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> que cojones
+[16Feb2025 17:24:29.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> q
+[16Feb2025 17:24:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> no tienes algo par ami?
