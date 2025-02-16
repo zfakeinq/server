@@ -2927,3 +2927,6 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 16:26:55.134] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Black_Impostor lost connection: Disconnected
 [16Feb2025 16:26:55.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor left the game
 [16Feb2025 16:30:38.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i cum back
+[16Feb2025 17:01:56.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 suffocated in a wall
+[16Feb2025 17:02:26.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 was slain by Zombie
+[16Feb2025 17:02:55.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 was blown up by Creeper

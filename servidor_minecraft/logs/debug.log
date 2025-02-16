@@ -13666,3 +13666,10 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 16:47:40.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [16Feb2025 16:52:40.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [16Feb2025 16:52:40.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 16:57:40.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 16:57:40.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 17:01:56.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 suffocated in a wall
+[16Feb2025 17:02:26.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 was slain by Zombie
+[16Feb2025 17:02:40.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 17:02:40.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 17:02:55.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 was blown up by Creeper
