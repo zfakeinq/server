@@ -3471,3 +3471,26 @@ java.lang.IllegalStateException: Nesting problem.
 [
   "+/$(k#'g93=<5/26.ip.gl.ply.gg#0."
 ]
+[16Feb2025 17:42:15.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ahmad2016[/127.11.241.14:52047] logged in with entity id 100632 at (-635.516526261032, 59.07200138369232, -154.35973851294813)
+[16Feb2025 17:42:15.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 joined the game
+[16Feb2025 17:42:15.856] [Server thread/INFO] [Jade/]: Syncing config to ahmad2016 (f23b4195-b7ac-3027-97e4-b06e9c128ef3)
+[16Feb2025 17:44:41.937] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel[/127.136.83.96:58573] logged in with entity id 100944 at (-401.4135154985934, 67.0, 51.875520124001554)
+[16Feb2025 17:44:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel joined the game
+[16Feb2025 17:44:41.967] [Server thread/INFO] [Jade/]: Syncing config to Daniel (d050033d-d943-35db-933f-15700cf9924e)
+[16Feb2025 17:44:46.178] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-377, y=69, z=-64}
+[16Feb2025 17:44:48.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> hey
+[16Feb2025 17:44:56.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> hi ys
+[16Feb2025 17:45:04.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> there's keepinventory
+[16Feb2025 17:45:04.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> whats the shit that keeps killing you
+[16Feb2025 17:45:11.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=67, z=-54} BlockPos{x=-405, y=67, z=-69}
+[16Feb2025 17:45:11.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=67, z=-54} BlockPos{x=-405, y=67, z=-69}
+[16Feb2025 17:45:11.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=67, z=-54} BlockPos{x=-406, y=67, z=-71}
+[16Feb2025 17:45:12.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=67, z=-54} BlockPos{x=-406, y=66, z=-74}
+[16Feb2025 17:45:12.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-372, y=67, z=-54} BlockPos{x=-406, y=66, z=-75}
+[16Feb2025 17:45:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> fall
+[16Feb2025 17:45:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> or
+[16Feb2025 17:45:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> zombies
+[16Feb2025 17:45:21.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> get good bro
+[16Feb2025 17:45:29.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> nah im jk
+[16Feb2025 17:45:37.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> do u use sword to attack or axe
+[16Feb2025 17:45:49.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> the portuguese boy will join but with zf account
