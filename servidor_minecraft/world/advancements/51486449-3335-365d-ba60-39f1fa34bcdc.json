@@ -108,6 +108,7 @@
       "minecraft:beach": "2025-02-16 18:17:55 +0000",
       "minecraft:river": "2025-02-16 19:20:31 +0000",
       "minecraft:snowy_plains": "2025-02-16 19:51:33 +0000",
+      "minecraft:dripstone_caves": "2025-02-16 21:13:26 +0000",
       "minecraft:cold_ocean": "2025-02-16 19:24:20 +0000",
       "minecraft:forest": "2025-02-16 19:31:54 +0000",
       "minecraft:deep_cold_ocean": "2025-02-16 19:25:06 +0000",
@@ -304,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-02-16 21:11:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-02-16 19:28:59 +0000"
@@ -395,6 +402,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-02-16 21:14:58 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/hazmat_armor": {
     "criteria": {
       "pants": "2025-02-16 20:25:16 +0000",
@@ -411,6 +424,12 @@
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-02-16 20:32:18 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-16 21:12:20 +0000"
     },
     "done": true
   },
