@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f23b4195b7ac302797e4b06e9c128ef3"
+	name: "ahmad2016#f23b4195"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
