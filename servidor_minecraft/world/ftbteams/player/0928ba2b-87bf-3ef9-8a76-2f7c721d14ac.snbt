@@ -1,0 +1,17 @@
+{
+	id: "0928ba2b-87bf-3ef9-8a76-2f7c721d14ac"
+	type: "player"
+	player_name: "Black_Impostor"
+	ranks: {
+		0928ba2b-87bf-3ef9-8a76-2f7c721d14ac: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Black_Impostor"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595FFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -271,6 +271,12 @@
     },
     "done": false
   },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2025-02-16 14:06:38 +0000"
+    },
+    "done": true
+  },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-02-16 13:32:16 +0000"

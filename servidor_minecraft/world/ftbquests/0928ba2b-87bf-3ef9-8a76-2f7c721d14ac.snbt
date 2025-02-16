@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "0928ba2b87bf3ef98a762f7c721d14ac"
+	name: "Black_Impostor#0928ba2b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
