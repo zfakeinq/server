@@ -1,0 +1,17 @@
+{
+	id: "781296b7-cb0e-3f07-94b1-125f7cf766d1"
+	type: "player"
+	player_name: "zfakeinq"
+	ranks: {
+		781296b7-cb0e-3f07-94b1-125f7cf766d1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "zfakeinq"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E759FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

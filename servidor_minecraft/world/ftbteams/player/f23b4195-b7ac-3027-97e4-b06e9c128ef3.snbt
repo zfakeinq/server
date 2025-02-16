@@ -1,0 +1,17 @@
+{
+	id: "f23b4195-b7ac-3027-97e4-b06e9c128ef3"
+	type: "player"
+	player_name: "ahmad2016"
+	ranks: {
+		f23b4195-b7ac-3027-97e4-b06e9c128ef3: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ahmad2016"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFC8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

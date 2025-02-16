@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "781296b7cb0e3f0794b1125f7cf766d1"
+	name: "zfakeinq#781296b7"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
