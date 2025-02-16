@@ -242,6 +242,7 @@
     "criteria": {
       "jacaranda_glade": "2025-02-16 15:48:37 +0000",
       "cold_desert": "2025-02-16 15:56:17 +0000",
+      "crystalline_chasm": "2025-02-16 18:37:15 +0000",
       "bog": "2025-02-16 16:02:05 +0000",
       "coniferous_forest": "2025-02-16 14:22:29 +0000",
       "redwood_forest": "2025-02-16 14:58:26 +0000",
@@ -268,7 +269,8 @@
       "minecraft:skeleton": "2025-02-16 16:13:16 +0000",
       "minecraft:spider": "2025-02-16 15:25:56 +0000",
       "minecraft:creeper": "2025-02-16 14:30:59 +0000",
-      "minecraft:zombie": "2025-02-16 14:22:44 +0000"
+      "minecraft:zombie": "2025-02-16 14:22:44 +0000",
+      "quark:foxhound": "2025-02-16 18:42:04 +0000"
     },
     "done": false
   },
@@ -391,6 +393,24 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-02-16 18:24:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-02-16 18:40:33 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-16 18:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-16 18:37:13 +0000"
     },
     "done": true
   },

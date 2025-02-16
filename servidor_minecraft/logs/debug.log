@@ -16797,3 +16797,60 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 18:36:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> AW Y
 [16Feb2025 18:36:26.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> AW YE
 [16Feb2025 18:36:32.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> theres many iron here
+[16Feb2025 18:36:36.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> daniel
+[16Feb2025 18:36:37.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel has made the advancement [Crops of the Wild]
+[16Feb2025 18:36:38.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> watch this
+[16Feb2025 18:36:45.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> what
+[16Feb2025 18:36:48.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> 1 sec
+[16Feb2025 18:37:00.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> OMG
+[16Feb2025 18:37:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> OMG
+[16Feb2025 18:37:02.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> OMG
+[16Feb2025 18:37:02.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> OMG
+[16Feb2025 18:37:05.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> awat
+[16Feb2025 18:37:09.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ANCIENT TOME
+[16Feb2025 18:37:11.331] [Worker-Main-238/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:gauntlet_arena/base is being run through DFU (hash 0d871524445703c1a906ae6c3ac7e4ca8da8c54137a1bee15180b207637d0493), this will cause launch time delays
+[16Feb2025 18:37:13.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor has made the advancement [We Need to Go Deeper]
+[16Feb2025 18:37:14.959] [Worker-Main-239/DEBUG] [mixin/]: Mixing NetherFortressPiecesMixin from quark.mixins.json into net.minecraft.world.level.levelgen.structure.structures.NetherFortressPieces
+[16Feb2025 18:37:15.292] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4070ms or 81 ticks behind
+[16Feb2025 18:37:24.335] [Worker-Main-202/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/121378, l='ServerLevel[world]', x=-17.00, y=31.00, z=-140.00] as it would cause deadlock
+[16Feb2025 18:37:35.914] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/121538, l='ServerLevel[world]', x=-110.00, y=31.00, z=222.00] as it would cause deadlock
+[16Feb2025 18:37:36.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> shit spawn
+[16Feb2025 18:37:42.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> call zf
+[16Feb2025 18:37:44.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 18:37:44.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 18:37:47.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i got an ancient tome
+[16Feb2025 18:37:48.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> its op
+[16Feb2025 18:38:32.168] [Worker-Main-237/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/121776, l='ServerLevel[world]', x=326.00, y=31.00, z=193.00] as it would cause deadlock
+[16Feb2025 18:38:44.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> fan i got 4 iron only
+[16Feb2025 18:38:47.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> pls accept
+[16Feb2025 18:39:00.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> i will a bit later
+[16Feb2025 18:39:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ok
+[16Feb2025 18:39:11.750] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/122096, l='ServerLevel[world]', x=348.00, y=31.00, z=206.00] as it would cause deadlock
+[16Feb2025 18:39:28.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> wtf are these ghosts
+[16Feb2025 18:39:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> what
+[16Feb2025 18:40:05.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> i think it just made a villager noise
+[16Feb2025 18:40:16.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> umm
+[16Feb2025 18:40:19.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> it's a wraith
+[16Feb2025 18:40:27.260] [Worker-Main-237/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/122447, l='ServerLevel[world]', x=164.00, y=31.00, z=-194.00] as it would cause deadlock
+[16Feb2025 18:40:44.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> do u have a slime ball by chance
+[16Feb2025 18:40:45.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Not agressive
+[16Feb2025 18:40:47.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i need it
+[16Feb2025 18:40:50.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> U want superglue?
+[16Feb2025 18:40:59.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> no slime ball
+[16Feb2025 18:41:00.336] [Worker-Main-203/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/122599, l='ServerLevel[world]', x=164.00, y=31.00, z=-213.00] as it would cause deadlock
+[16Feb2025 18:41:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I dont have
+[16Feb2025 18:41:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> also fan come to my base
+[16Feb2025 18:41:13.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ill show u smth
+[16Feb2025 18:41:17.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> [name:"Base", x:-298, y:71, z:-41, dim:minecraft:overworld]
+[16Feb2025 18:41:41.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> coming back to the overworld
+[16Feb2025 18:41:46.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> where were u
+[16Feb2025 18:41:52.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Nether
+[16Feb2025 18:42:44.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Feb2025 18:42:44.618] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Feb2025 18:43:13.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> ur 1 kilometer away from me
+[16Feb2025 18:43:18.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wt
+[16Feb2025 18:43:19.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wtf
+[16Feb2025 18:43:25.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> ?
+[16Feb2025 18:43:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ok then ill just send an ss in dc
+[16Feb2025 18:43:28.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> wait
+[16Feb2025 18:45:54.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i need an anvil so bad
