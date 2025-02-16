@@ -205,14 +205,21 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-02-16 19:25:43 +0000",
+      "minecraft:frozen_river": "2025-02-16 19:48:03 +0000",
       "minecraft:birch_forest": "2025-02-15 21:26:15 +0000",
       "minecraft:beach": "2025-02-16 12:41:56 +0000",
       "minecraft:river": "2025-02-16 14:49:51 +0000",
+      "minecraft:snowy_plains": "2025-02-16 19:51:33 +0000",
       "minecraft:dripstone_caves": "2025-02-16 14:49:12 +0000",
+      "minecraft:snowy_taiga": "2025-02-16 19:51:30 +0000",
       "minecraft:cold_ocean": "2025-02-16 12:40:53 +0000",
       "minecraft:forest": "2025-02-15 21:23:50 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-16 19:25:06 +0000",
+      "minecraft:frozen_ocean": "2025-02-16 19:47:52 +0000",
       "minecraft:windswept_forest": "2025-02-16 15:00:37 +0000",
       "minecraft:ocean": "2025-02-16 12:40:57 +0000",
+      "minecraft:snowy_beach": "2025-02-16 19:47:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 14:49:52 +0000",
       "minecraft:plains": "2025-02-16 12:25:37 +0000"
     },
@@ -246,9 +253,18 @@
     "criteria": {
       "overgrown_greens": "2025-02-16 14:57:32 +0000",
       "coniferous_forest": "2025-02-16 12:40:50 +0000",
+      "hot_springs": "2025-02-16 19:55:15 +0000",
       "spider_nest": "2025-02-16 14:57:35 +0000",
+      "redwood_forest": "2025-02-16 19:26:45 +0000",
       "dune_beach": "2025-02-16 12:41:54 +0000",
-      "prairie": "2025-02-16 12:41:53 +0000"
+      "seasonal_forest": "2025-02-16 19:36:49 +0000",
+      "dead_forest": "2025-02-16 19:55:12 +0000",
+      "prairie": "2025-02-16 12:41:53 +0000",
+      "snowy_coniferous_forest": "2025-02-16 19:52:36 +0000",
+      "snowy_fir_clearing": "2025-02-16 19:48:24 +0000",
+      "glowing_grotto": "2025-02-16 19:56:35 +0000",
+      "gravel_beach": "2025-02-16 19:36:40 +0000",
+      "snowy_maple_woods": "2025-02-16 19:52:39 +0000"
     },
     "done": false
   },
@@ -284,6 +300,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-16 20:19:40 +0000",
       "cooked_mutton": "2025-02-16 12:51:08 +0000",
       "cooked_beef": "2025-02-16 14:36:59 +0000"
     },
@@ -311,9 +328,12 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-16 13:01:39 +0000",
       "minecraft:spider": "2025-02-16 14:58:23 +0000",
+      "minecraft:creeper": "2025-02-16 20:09:43 +0000",
       "quark:forgotten": "2025-02-16 14:37:15 +0000",
+      "minecraft:phantom": "2025-02-16 19:44:56 +0000",
       "minecraft:enderman": "2025-02-16 19:21:41 +0000",
-      "minecraft:zombie": "2025-02-16 13:03:32 +0000"
+      "minecraft:zombie": "2025-02-16 13:03:32 +0000",
+      "minecraft:drowned": "2025-02-16 19:45:43 +0000"
     },
     "done": false
   },
@@ -410,6 +430,90 @@
   "alexscaves:alexscaves/nuclear_bomb": {
     "criteria": {
       "nuclear_bomb": "2025-02-16 18:02:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-02-16 20:02:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-16 19:33:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/radon_bottle": {
+    "criteria": {
+      "radon_bottle": "2025-02-16 20:02:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-02-16 20:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-16 20:00:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/uranium": {
+    "criteria": {
+      "uranium": "2025-02-16 20:00:09 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-16 19:44:56 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/toxic_paste": {
+    "criteria": {
+      "toxic_paste": "2025-02-16 20:09:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sulfur_dust": {
+    "criteria": {
+      "sulfur_dust": "2025-02-16 20:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-16 19:45:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/hazmat_armor": {
+    "criteria": {
+      "helmet": "2025-02-16 20:05:21 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-02-16 20:02:22 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-02-16 19:57:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-02-16 20:13:11 +0000"
     },
     "done": true
   },
