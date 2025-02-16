@@ -5238,3 +5238,12 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 21:25:22.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
 [16Feb2025 21:26:09.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 tried to swim in lava
 [16Feb2025 21:26:19.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[16Feb2025 21:31:24.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> bn me voy
+[16Feb2025 21:31:25.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> bye
+[16Feb2025 21:31:30.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> chao
+[16Feb2025 21:31:32.993] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ahmad2016 lost connection: Disconnected
+[16Feb2025 21:31:32.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 left the game
+[16Feb2025 21:32:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [Take Aim]
+[16Feb2025 21:36:10.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [Tricking a Rock Into Thinking]
+[16Feb2025 21:38:52.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[16Feb2025 21:39:00.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
