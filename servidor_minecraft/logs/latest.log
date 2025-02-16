@@ -2901,3 +2901,17 @@ java.lang.IllegalStateException: Nesting problem.
 [16Feb2025 15:53:01.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=971, y=73, z=-1077}
 [16Feb2025 16:02:55.485] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67d717a1[id=<null>,name=ahmad2016,properties={},legacy=false] (/127.11.241.14:51857) lost connection: Timed out
 [16Feb2025 16:03:54.730] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@77fa7843[id=<null>,name=ahmad2016,properties={},legacy=false] (/127.11.241.14:41039) lost connection: Disconnected
+[16Feb2025 16:04:56.385] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74ee4ca9[id=<null>,name=ahmad2016,properties={},legacy=false] (/127.11.241.14:34597) lost connection: Disconnected
+[16Feb2025 16:06:04.031] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16440c56[id=<null>,name=ahmad2016,properties={},legacy=false] (/127.11.241.14:50113) lost connection: Timed out
+[16Feb2025 16:09:45.793] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ahmad2016[/127.11.241.14:54471] logged in with entity id 85649 at (-654.2492994896645, 64.0, -103.63446270638302)
+[16Feb2025 16:09:45.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 joined the game
+[16Feb2025 16:09:45.830] [Server thread/INFO] [Jade/]: Syncing config to ahmad2016 (f23b4195-b7ac-3027-97e4-b06e9c128ef3)
+[16Feb2025 16:10:12.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> hi again
+[16Feb2025 16:10:21.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> hi
+[16Feb2025 16:13:11.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor has made the advancement [Not Today, Thank You]
+[16Feb2025 16:13:28.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i hope today getting diamonds
+[16Feb2025 16:13:48.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I 100% have no diamonds
+[16Feb2025 16:13:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> yes u have
+[16Feb2025 16:14:10.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I dont
+[16Feb2025 16:14:18.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> bro a have lead
+[16Feb2025 16:14:23.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i*
