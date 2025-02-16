@@ -406,5 +406,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-02-16 18:02:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

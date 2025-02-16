@@ -1,0 +1,17 @@
+{
+	id: "51486449-3335-365d-ba60-39f1fa34bcdc"
+	type: "player"
+	player_name: "MiloDog1"
+	ranks: {
+		51486449-3335-365d-ba60-39f1fa34bcdc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MiloDog1"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C7FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

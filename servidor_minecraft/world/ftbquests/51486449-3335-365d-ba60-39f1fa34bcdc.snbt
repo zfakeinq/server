@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "514864493335365dba6039f1fa34bcdc"
+	name: "MiloDog1#51486449"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
