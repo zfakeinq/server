@@ -433,6 +433,18 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2025-02-16 20:46:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/polymer_plate": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-16 20:49:43 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium_rod": {
     "criteria": {
       "limestone": "2025-02-16 20:02:39 +0000"
@@ -499,6 +511,12 @@
     },
     "done": false
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-02-16 20:32:12 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
       "enter_acid_with_armor": "2025-02-16 20:02:22 +0000"
@@ -511,9 +529,21 @@
     },
     "done": true
   },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2025-02-16 20:53:31 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_nucleeper": {
     "criteria": {
       "killed": "2025-02-16 20:13:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-02-16 20:50:14 +0000"
     },
     "done": true
   },

@@ -314,6 +314,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-02-16 20:22:50 +0000",
       "minecraft:spider": "2025-02-16 19:41:44 +0000",
+      "minecraft:creeper": "2025-02-16 20:29:31 +0000",
       "minecraft:cave_spider": "2025-02-16 20:26:49 +0000",
       "minecraft:zombie": "2025-02-16 20:05:48 +0000"
     },
@@ -336,6 +337,12 @@
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2025-02-16 20:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-16 20:34:21 +0000"
     },
     "done": true
   },
@@ -375,9 +382,16 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-16 20:46:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/hazmat_armor": {
     "criteria": {
-      "pants": "2025-02-16 20:25:16 +0000"
+      "pants": "2025-02-16 20:25:16 +0000",
+      "helmet": "2025-02-16 20:31:06 +0000"
     },
     "done": false
   },
@@ -386,6 +400,12 @@
       "sugar_cane": "2025-02-16 19:17:42 +0000"
     },
     "done": false
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-02-16 20:32:18 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/enter_acid_with_armor": {
     "criteria": {
