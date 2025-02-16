@@ -463,6 +463,12 @@
     },
     "done": true
   },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2025-02-16 21:00:36 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_brainiac": {
     "criteria": {
       "killed": "2025-02-16 20:07:48 +0000"
@@ -475,9 +481,21 @@
     },
     "done": true
   },
+  "mekanism:basic_control_circuit": {
+    "criteria": {
+      "basic_control_circuit": "2025-02-16 21:00:33 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/uranium": {
     "criteria": {
       "uranium": "2025-02-16 20:00:09 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_transport": {
+    "criteria": {
+      "basic_universal_cable": "2025-02-16 20:57:58 +0000"
     },
     "done": true
   },
@@ -544,6 +562,18 @@
   "alexscaves:alexscaves/raygun": {
     "criteria": {
       "raygun": "2025-02-16 20:50:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:infused_alloy": {
+    "criteria": {
+      "alloy_infused": "2025-02-16 20:59:03 +0000"
+    },
+    "done": true
+  },
+  "mekanism:steel_ingot": {
+    "criteria": {
+      "ingot_steel": "2025-02-16 20:57:51 +0000"
     },
     "done": true
   },

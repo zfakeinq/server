@@ -319,13 +319,15 @@
       "shrubland": "2025-02-16 14:12:54 +0000",
       "rocky_shrubland": "2025-02-16 14:30:58 +0000",
       "jacaranda_glade": "2025-02-16 14:27:53 +0000",
+      "crystalline_chasm": "2025-02-16 21:00:43 +0000",
       "orchard": "2025-02-16 14:28:12 +0000",
       "overgrown_greens": "2025-02-16 14:13:48 +0000",
       "coniferous_forest": "2025-02-16 13:16:27 +0000",
       "spider_nest": "2025-02-16 14:34:29 +0000",
       "redwood_forest": "2025-02-16 14:23:07 +0000",
       "lavender_field": "2025-02-16 14:28:00 +0000",
-      "prairie": "2025-02-16 14:23:41 +0000"
+      "prairie": "2025-02-16 14:23:41 +0000",
+      "undergrowth": "2025-02-16 21:01:52 +0000"
     },
     "done": false
   },
@@ -383,15 +385,39 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-16 20:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-02-16 20:36:58 +0000"
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-16 21:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-16 21:00:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-02-16 20:32:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-16 20:59:09 +0000"
     },
     "done": true
   },

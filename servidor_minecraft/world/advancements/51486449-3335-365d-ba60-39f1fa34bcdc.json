@@ -310,12 +310,19 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-16 21:06:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-02-16 20:22:50 +0000",
       "minecraft:spider": "2025-02-16 19:41:44 +0000",
       "minecraft:creeper": "2025-02-16 20:29:31 +0000",
       "minecraft:cave_spider": "2025-02-16 20:26:49 +0000",
+      "minecraft:enderman": "2025-02-16 20:58:29 +0000",
       "minecraft:zombie": "2025-02-16 20:05:48 +0000"
     },
     "done": false
