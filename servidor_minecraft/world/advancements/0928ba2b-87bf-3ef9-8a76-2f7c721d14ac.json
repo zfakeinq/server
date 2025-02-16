@@ -54,6 +54,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-16 15:27:13 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2025-02-16 14:21:52 +0000"
@@ -74,6 +80,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-02-16 15:25:56 +0000",
       "minecraft:creeper": "2025-02-16 14:30:59 +0000",
       "minecraft:zombie": "2025-02-16 14:22:44 +0000"
     },
@@ -194,7 +201,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2025-02-16 14:27:17 +0000"
+      "cooked_mutton": "2025-02-16 14:27:17 +0000",
+      "cooked_chicken": "2025-02-16 15:23:14 +0000"
     },
     "done": false
   },
@@ -231,6 +239,12 @@
   "create:root": {
     "criteria": {
       "0": "2025-02-16 14:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-16 15:31:51 +0000"
     },
     "done": true
   },

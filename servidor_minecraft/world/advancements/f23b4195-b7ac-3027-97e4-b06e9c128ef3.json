@@ -271,7 +271,8 @@
       "cooked_beef": "2025-02-16 14:22:20 +0000",
       "beef": "2025-02-16 13:32:31 +0000",
       "porkchop": "2025-02-16 12:56:34 +0000",
-      "mutton": "2025-02-16 14:48:49 +0000"
+      "mutton": "2025-02-16 14:48:49 +0000",
+      "rotten_flesh": "2025-02-16 15:32:19 +0000"
     },
     "done": false
   },
@@ -329,27 +330,27 @@
     },
     "done": true
   },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2025-02-16 14:37:11 +0000"
-    },
-    "done": true
-  },
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-02-16 14:26:16 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "mekanism:materials": {
     "criteria": {
-      "deflected_projectile": "2025-02-16 14:52:37 +0000"
+      "material": "2025-02-16 14:37:11 +0000"
     },
     "done": true
   },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-02-16 14:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-16 14:52:37 +0000"
     },
     "done": true
   },
