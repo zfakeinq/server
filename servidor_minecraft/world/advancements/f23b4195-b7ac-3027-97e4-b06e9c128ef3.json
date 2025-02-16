@@ -206,6 +206,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:birch_forest": "2025-02-16 14:07:25 +0000",
+      "minecraft:beach": "2025-02-16 15:07:13 +0000",
       "minecraft:dark_forest": "2025-02-16 14:16:25 +0000",
       "minecraft:river": "2025-02-16 14:16:10 +0000",
       "minecraft:dripstone_caves": "2025-02-16 13:35:36 +0000",
