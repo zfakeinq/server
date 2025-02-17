@@ -585,39 +585,9 @@
     },
     "done": true
   },
-  "mekanism:chemical_transport": {
-    "criteria": {
-      "basic_pressurized_tube": "2025-02-17 14:49:06 +0000"
-    },
-    "done": true
-  },
-  "mekanism:purification_chamber": {
-    "criteria": {
-      "purification_chamber": "2025-02-17 15:04:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-02-17 14:31:02 +0000"
-    },
-    "done": true
-  },
-  "mekanism:fluid_transport": {
-    "criteria": {
-      "basic_mechanical_pipe": "2025-02-17 14:48:57 +0000"
-    },
-    "done": true
-  },
-  "mekanism:advanced_control_circuit": {
-    "criteria": {
-      "advanced_control_circuit": "2025-02-17 15:04:41 +0000"
-    },
-    "done": true
-  },
-  "mekanism:enricher": {
-    "criteria": {
-      "enrichment_chamber": "2025-02-17 15:04:02 +0000"
     },
     "done": true
   },
@@ -630,6 +600,36 @@
   "mekanism:pump": {
     "criteria": {
       "electric_pump": "2025-02-17 14:48:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:fluid_transport": {
+    "criteria": {
+      "basic_mechanical_pipe": "2025-02-17 14:48:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2025-02-17 14:49:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-02-17 15:04:02 +0000"
+    },
+    "done": true
+  },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-02-17 15:04:41 +0000"
+    },
+    "done": true
+  },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2025-02-17 15:04:50 +0000"
     },
     "done": true
   },

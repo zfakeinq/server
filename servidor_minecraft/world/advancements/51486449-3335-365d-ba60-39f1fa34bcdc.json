@@ -270,7 +270,8 @@
       "glowing_grotto": "2025-02-16 19:57:36 +0000",
       "gravel_beach": "2025-02-16 19:41:11 +0000",
       "undergrowth": "2025-02-17 14:45:22 +0000",
-      "snowy_maple_woods": "2025-02-16 19:52:39 +0000"
+      "snowy_maple_woods": "2025-02-16 19:52:39 +0000",
+      "ominous_woods": "2025-02-17 16:29:20 +0000"
     },
     "done": false
   },
@@ -509,6 +510,36 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-17 14:42:21 +0000"
+    },
+    "done": true
+  },
+  "create:copper_casing": {
+    "criteria": {
+      "0": "2025-02-17 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "create:spout": {
+    "criteria": {
+      "0": "2025-02-17 15:53:08 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-02-17 16:23:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-17 16:35:25 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-02-17 16:47:21 +0000"
     },
     "done": true
   },
