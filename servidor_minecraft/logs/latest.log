@@ -680,3 +680,60 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [
   "Jge?{PC]8"
 ]
+[17Feb2025 14:17:39.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:18:49.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [Voluntary Exile]
+[17Feb2025 14:20:03.576] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=5, y=76, z=939}
+[17Feb2025 14:20:04.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=5, y=76, z=939} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[17Feb2025 14:20:04.068] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=5, y=76, z=939}
+[17Feb2025 14:28:16.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:28:21.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:29:57.524] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Black_Impostor[/127.251.182.52:53513] logged in with entity id 11677 at (719.6436982589476, 31.0, 24.131477884964227)
+[17Feb2025 14:29:57.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor joined the game
+[17Feb2025 14:29:57.551] [Server thread/INFO] [Jade/]: Syncing config to Black_Impostor (0928ba2b-87bf-3ef9-8a76-2f7c721d14ac)
+[17Feb2025 14:30:03.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Hello
+[17Feb2025 14:30:05.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> hi
+[17Feb2025 14:30:17.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> hello
+[17Feb2025 14:30:17.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> exploring i suppose?
+[17Feb2025 14:30:20.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> fr
+[17Feb2025 14:30:25.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> no
+[17Feb2025 14:30:52.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:31:00.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 14:31:01.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:31:02.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Hot Stuff]
+[17Feb2025 14:31:08.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ys is joining?
+[17Feb2025 14:31:11.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> going to nether?
+[17Feb2025 14:31:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> no
+[17Feb2025 14:31:14.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Also, i have no idea
+[17Feb2025 14:31:19.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> im doing the multiplicator
+[17Feb2025 14:31:22.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> of ores
+[17Feb2025 14:31:38.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What's it called? The machine
+[17Feb2025 14:31:44.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> its many
+[17Feb2025 14:32:52.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> wya black
+[17Feb2025 14:33:07.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [Hot Stuff]
+[17Feb2025 14:33:07.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> My base
+[17Feb2025 14:33:12.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Do you require anything?
+[17Feb2025 14:33:17.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> what did i tell you about doing bases outside the island
+[17Feb2025 14:33:19.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> A pickaxe perhaps? I have some extra
+[17Feb2025 14:33:25.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> nah i got a diamond pickaxe
+[17Feb2025 14:33:31.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> And what did i tell you about me not being outside the island
+[17Feb2025 14:33:39.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> idgaf
+[17Feb2025 14:33:41.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cmere nigga
+[17Feb2025 14:33:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yk what
+[17Feb2025 14:33:49.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ill just let u
+[17Feb2025 14:33:56.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I was going to comply
+[17Feb2025 14:35:05.823] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ahmad2016[/127.11.241.14:37109] logged in with entity id 14985 at (-541.1930386051499, 65.0, 54.2707505770856)
+[17Feb2025 14:35:05.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 joined the game
+[17Feb2025 14:35:05.895] [Server thread/INFO] [Jade/]: Syncing config to ahmad2016 (f23b4195-b7ac-3027-97e4-b06e9c128ef3)
+[17Feb2025 14:35:13.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I am gonna relocate closer to the spawn
+[17Feb2025 14:35:37.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> hello bitches
+[17Feb2025 14:35:58.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> zf
+[17Feb2025 14:36:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ?
+[17Feb2025 14:36:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Could you be so kind as to provide me with a marker towards the spawn?
+[17Feb2025 14:36:17.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> who has blue ink?
+[17Feb2025 14:36:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> [x:-395, y:69, z:-61, dim:minecraft:overworld]
+[17Feb2025 14:36:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> cian ink
+[17Feb2025 14:36:21.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Thanks
+[17Feb2025 14:36:39.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> ??
+[17Feb2025 14:36:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> nvm
+[17Feb2025 14:36:44.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i dont
+[17Feb2025 14:37:13.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
