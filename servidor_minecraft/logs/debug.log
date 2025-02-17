@@ -9865,3 +9865,30 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Feb2025 15:06:18.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 was slain by Hoglin
 [17Feb2025 15:07:15.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Do you have 3 spare gold ingots?
 [17Feb2025 15:07:18.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yes
+[17Feb2025 15:07:48.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 15:07:48.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 15:07:50.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor has made the advancement [Tricking a Rock Into Thinking]
+[17Feb2025 15:08:44.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor has made the advancement [The Alloy That Started it All]
+[17Feb2025 15:09:00.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 15:09:07.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 15:09:50.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Made zfakeinq no longer a server operator]
+[17Feb2025 15:10:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ty
+[17Feb2025 15:12:45.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made zfakeinq a server operator
+[17Feb2025 15:12:48.228] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 15:12:48.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 15:12:48.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 15:12:51.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has reached the goal [Burn the Gas]
+[17Feb2025 15:12:57.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 15:13:04.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 15:13:08.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 15:16:07.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Do you have 20 andesite?
+[17Feb2025 15:16:10.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yes
+[17Feb2025 15:16:22.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> In exchange i can offer a cobblestone generator
+[17Feb2025 15:16:58.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 15:17:10.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 15:17:25.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> May i also use your mixer? I forgot mine a kilometer away
+[17Feb2025 15:17:27.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 15:17:36.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 15:17:48.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 15:17:48.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 15:17:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]

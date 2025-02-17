@@ -591,6 +591,12 @@
     },
     "done": true
   },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2025-02-17 15:04:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-02-17 14:31:02 +0000"
@@ -603,6 +609,18 @@
     },
     "done": true
   },
+  "mekanism:advanced_control_circuit": {
+    "criteria": {
+      "advanced_control_circuit": "2025-02-17 15:04:41 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2025-02-17 15:04:02 +0000"
+    },
+    "done": true
+  },
   "mekanism:steel_casing": {
     "criteria": {
       "steel_casing": "2025-02-17 14:39:11 +0000"
@@ -612,6 +630,12 @@
   "mekanism:pump": {
     "criteria": {
       "electric_pump": "2025-02-17 14:48:14 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2025-02-17 15:12:51 +0000"
     },
     "done": true
   },
