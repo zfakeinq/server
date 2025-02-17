@@ -2228,3 +2228,5 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Feb2025 21:11:59.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel lost connection: Disconnected
 [17Feb2025 21:11:59.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel left the game
 [17Feb2025 21:28:27.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 was slain by Zombie
+[17Feb2025 21:44:46.439] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ahmad2016 lost connection: Timed out
+[17Feb2025 21:44:46.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ahmad2016 left the game
