@@ -11834,3 +11834,16 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Feb2025 21:04:48.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> okey
 [17Feb2025 21:06:40.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Feb2025 21:06:40.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 21:11:40.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 21:11:40.757] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Feb2025 21:11:46.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> nigga
+[17Feb2025 21:11:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ys
+[17Feb2025 21:11:49.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> imma go
+[17Feb2025 21:11:50.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> what
+[17Feb2025 21:11:53.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> ok
+[17Feb2025 21:11:54.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> bye
+[17Feb2025 21:11:55.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> bye negro
+[17Feb2025 21:11:59.038] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel lost connection: Disconnected
+[17Feb2025 21:11:59.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel left the game
+[17Feb2025 21:16:40.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Feb2025 21:16:40.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
