@@ -957,3 +957,12 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Feb2025 15:17:27.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
 [17Feb2025 15:17:36.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
 [17Feb2025 15:17:50.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 15:18:18.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 15:19:05.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> oops
+[17Feb2025 15:19:10.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Is that from the radiation caves?
+[17Feb2025 15:19:13.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ye
+[17Feb2025 15:23:13.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> brb
+[17Feb2025 15:23:15.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i gtg
+[17Feb2025 15:23:17.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> server will be ob
+[17Feb2025 15:23:18.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zfakeinq lost connection: Disconnected
+[17Feb2025 15:23:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq left the game
