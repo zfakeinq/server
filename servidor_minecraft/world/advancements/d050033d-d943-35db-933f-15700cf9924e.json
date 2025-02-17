@@ -355,6 +355,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-02-17 20:47:26 +0000",
       "field": "2025-02-16 19:25:11 +0000",
       "overgrown_greens": "2025-02-16 19:25:28 +0000",
       "coniferous_forest": "2025-02-16 19:05:17 +0000",
