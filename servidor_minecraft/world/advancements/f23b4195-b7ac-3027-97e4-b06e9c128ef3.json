@@ -433,5 +433,17 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-02-17 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-02-17 15:01:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
