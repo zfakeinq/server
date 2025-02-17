@@ -296,6 +296,7 @@
       "minecraft:skeleton": "2025-02-16 16:13:16 +0000",
       "minecraft:spider": "2025-02-16 15:25:56 +0000",
       "minecraft:creeper": "2025-02-16 14:30:59 +0000",
+      "minecraft:phantom": "2025-02-17 20:37:21 +0000",
       "minecraft:zombie": "2025-02-16 14:22:44 +0000",
       "quark:foxhound": "2025-02-16 18:42:04 +0000"
     },
@@ -555,6 +556,12 @@
       "diamond_knife": "2025-02-17 19:34:33 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-02-17 20:37:21 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
