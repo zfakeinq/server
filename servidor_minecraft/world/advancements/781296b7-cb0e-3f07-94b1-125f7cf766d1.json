@@ -211,6 +211,7 @@
       "minecraft:beach": "2025-02-16 12:41:56 +0000",
       "minecraft:river": "2025-02-16 14:49:51 +0000",
       "minecraft:snowy_plains": "2025-02-16 19:51:33 +0000",
+      "minecraft:stony_shore": "2025-02-17 20:24:26 +0000",
       "minecraft:dripstone_caves": "2025-02-16 14:49:12 +0000",
       "minecraft:snowy_taiga": "2025-02-16 19:51:30 +0000",
       "minecraft:cold_ocean": "2025-02-16 12:40:53 +0000",
@@ -218,9 +219,11 @@
       "minecraft:deep_cold_ocean": "2025-02-16 19:25:06 +0000",
       "minecraft:frozen_ocean": "2025-02-16 19:47:52 +0000",
       "minecraft:windswept_forest": "2025-02-16 15:00:37 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-17 20:35:10 +0000",
       "minecraft:ocean": "2025-02-16 12:40:57 +0000",
       "minecraft:snowy_beach": "2025-02-16 19:47:54 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 14:49:52 +0000",
+      "minecraft:meadow": "2025-02-17 20:28:33 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-16 21:36:52 +0000",
       "minecraft:plains": "2025-02-16 12:25:37 +0000"
     },
@@ -252,21 +255,36 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-02-17 20:24:16 +0000",
+      "rocky_shrubland": "2025-02-17 20:21:14 +0000",
+      "highland": "2025-02-17 20:28:34 +0000",
+      "jade_cliffs": "2025-02-17 20:22:25 +0000",
+      "mystic_grove": "2025-02-17 20:24:30 +0000",
+      "maple_woods": "2025-02-17 20:28:44 +0000",
+      "crystalline_chasm": "2025-02-17 20:10:38 +0000",
+      "field": "2025-02-17 20:25:11 +0000",
+      "orchard": "2025-02-17 20:21:15 +0000",
       "overgrown_greens": "2025-02-16 14:57:32 +0000",
       "coniferous_forest": "2025-02-16 12:40:50 +0000",
       "hot_springs": "2025-02-16 19:55:15 +0000",
       "spider_nest": "2025-02-16 14:57:35 +0000",
       "redwood_forest": "2025-02-16 19:26:45 +0000",
+      "aspen_glade": "2025-02-17 20:27:05 +0000",
       "dune_beach": "2025-02-16 12:41:54 +0000",
       "seasonal_forest": "2025-02-16 19:36:49 +0000",
       "dead_forest": "2025-02-16 19:55:12 +0000",
+      "fir_clearing": "2025-02-17 20:31:50 +0000",
+      "pumpkin_patch": "2025-02-17 20:27:31 +0000",
       "prairie": "2025-02-16 12:41:53 +0000",
       "grassland": "2025-02-17 19:49:55 +0000",
       "snowy_coniferous_forest": "2025-02-16 19:52:36 +0000",
       "snowy_fir_clearing": "2025-02-16 19:48:24 +0000",
+      "tundra": "2025-02-17 20:33:56 +0000",
       "glowing_grotto": "2025-02-16 19:56:35 +0000",
       "gravel_beach": "2025-02-16 19:36:40 +0000",
-      "snowy_maple_woods": "2025-02-16 19:52:39 +0000"
+      "undergrowth": "2025-02-17 20:12:29 +0000",
+      "snowy_maple_woods": "2025-02-16 19:52:39 +0000",
+      "ominous_woods": "2025-02-17 20:30:54 +0000"
     },
     "done": false
   },
@@ -331,9 +349,11 @@
       "minecraft:skeleton": "2025-02-16 13:01:39 +0000",
       "minecraft:spider": "2025-02-16 14:58:23 +0000",
       "minecraft:creeper": "2025-02-16 20:09:43 +0000",
+      "minecraft:slime": "2025-02-17 19:57:03 +0000",
       "quark:forgotten": "2025-02-16 14:37:15 +0000",
       "minecraft:phantom": "2025-02-16 19:44:56 +0000",
       "minecraft:witch": "2025-02-17 14:07:29 +0000",
+      "minecraft:wither_skeleton": "2025-02-17 20:15:48 +0000",
       "minecraft:enderman": "2025-02-16 19:21:41 +0000",
       "minecraft:zombie": "2025-02-16 13:03:32 +0000",
       "minecraft:drowned": "2025-02-16 19:45:43 +0000"
@@ -646,6 +666,18 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-17 20:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-17 20:23:05 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-02-17 19:47:30 +0000"
@@ -664,6 +696,30 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-17 20:12:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-17 20:10:37 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-17 20:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-17 20:10:37 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2025-02-17 19:34:42 +0000"
@@ -673,6 +729,12 @@
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_grottoceratops": "2025-02-17 19:35:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-17 20:15:19 +0000"
     },
     "done": true
   },

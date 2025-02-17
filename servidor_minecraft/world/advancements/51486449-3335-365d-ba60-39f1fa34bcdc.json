@@ -257,6 +257,7 @@
       "crystalline_chasm": "2025-02-17 14:42:24 +0000",
       "withered_abyss": "2025-02-17 15:05:04 +0000",
       "orchard": "2025-02-16 21:53:30 +0000",
+      "field": "2025-02-17 20:32:43 +0000",
       "coniferous_forest": "2025-02-16 17:59:33 +0000",
       "hot_springs": "2025-02-16 19:55:18 +0000",
       "spider_nest": "2025-02-16 20:27:07 +0000",
@@ -565,6 +566,48 @@
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_tremorsaurus": "2025-02-17 19:38:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-02-17 19:57:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-17 20:20:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-17 19:57:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-02-17 19:57:28 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-02-17 19:58:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tame_subterranodon": {
+    "criteria": {
+      "killed": "2025-02-17 20:20:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-02-17 19:59:04 +0000"
     },
     "done": true
   },

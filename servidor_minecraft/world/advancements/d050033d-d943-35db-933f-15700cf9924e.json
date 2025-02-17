@@ -267,6 +267,7 @@
       "minecraft:skeleton": "2025-02-17 19:36:20 +0000",
       "minecraft:spider": "2025-02-17 19:41:38 +0000",
       "minecraft:creeper": "2025-02-16 14:11:40 +0000",
+      "minecraft:enderman": "2025-02-17 20:35:28 +0000",
       "minecraft:zombie": "2025-02-16 14:07:59 +0000"
     },
     "done": false
@@ -362,6 +363,7 @@
       "seasonal_forest": "2025-02-16 19:19:50 +0000",
       "prairie": "2025-02-16 19:05:07 +0000",
       "grassland": "2025-02-17 19:42:54 +0000",
+      "glowing_grotto": "2025-02-17 19:56:24 +0000",
       "ominous_woods": "2025-02-16 19:07:19 +0000"
     },
     "done": false
@@ -381,6 +383,18 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-02-17 19:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-02-17 20:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-02-17 20:36:09 +0000"
     },
     "done": true
   },

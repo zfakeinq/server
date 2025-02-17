@@ -206,19 +206,24 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-17 19:13:24 +0000",
+      "minecraft:deep_ocean": "2025-02-17 20:19:36 +0000",
       "minecraft:frozen_river": "2025-02-16 15:56:10 +0000",
       "minecraft:birch_forest": "2025-02-16 14:42:01 +0000",
       "minecraft:beach": "2025-02-17 15:02:23 +0000",
       "minecraft:river": "2025-02-16 14:44:30 +0000",
       "minecraft:snowy_plains": "2025-02-16 15:54:53 +0000",
+      "minecraft:stony_shore": "2025-02-17 20:24:32 +0000",
       "minecraft:dripstone_caves": "2025-02-16 14:32:03 +0000",
       "minecraft:swamp": "2025-02-16 16:02:01 +0000",
       "minecraft:cold_ocean": "2025-02-16 15:58:28 +0000",
       "minecraft:forest": "2025-02-16 14:40:56 +0000",
+      "minecraft:deep_cold_ocean": "2025-02-17 20:25:43 +0000",
       "minecraft:frozen_ocean": "2025-02-16 15:56:08 +0000",
+      "minecraft:deep_frozen_ocean": "2025-02-17 20:35:09 +0000",
       "minecraft:ocean": "2025-02-17 16:35:01 +0000",
       "minecraft:snowy_beach": "2025-02-16 15:55:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 14:44:31 +0000",
+      "minecraft:meadow": "2025-02-17 20:28:35 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-17 19:12:10 +0000",
       "minecraft:plains": "2025-02-16 14:21:53 +0000"
     },
@@ -244,19 +249,30 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-02-17 20:24:17 +0000",
+      "rocky_shrubland": "2025-02-17 20:24:08 +0000",
       "highland": "2025-02-17 19:16:28 +0000",
       "jacaranda_glade": "2025-02-16 15:48:37 +0000",
+      "jade_cliffs": "2025-02-17 20:22:22 +0000",
+      "mystic_grove": "2025-02-17 20:24:33 +0000",
       "cold_desert": "2025-02-16 15:56:17 +0000",
+      "maple_woods": "2025-02-17 20:28:45 +0000",
       "crystalline_chasm": "2025-02-16 18:37:15 +0000",
       "field": "2025-02-17 19:13:25 +0000",
+      "orchard": "2025-02-17 20:21:19 +0000",
+      "overgrown_greens": "2025-02-17 20:21:08 +0000",
       "bog": "2025-02-16 16:02:05 +0000",
       "coniferous_forest": "2025-02-16 14:22:29 +0000",
       "redwood_forest": "2025-02-16 14:58:26 +0000",
       "aspen_glade": "2025-02-16 15:53:41 +0000",
       "dune_beach": "2025-02-17 15:39:11 +0000",
       "seasonal_forest": "2025-02-16 15:50:12 +0000",
+      "fir_clearing": "2025-02-17 20:31:48 +0000",
       "pumpkin_patch": "2025-02-16 15:49:00 +0000",
       "prairie": "2025-02-17 14:43:00 +0000",
+      "grassland": "2025-02-17 20:21:00 +0000",
+      "tundra": "2025-02-17 20:34:23 +0000",
+      "gravel_beach": "2025-02-17 20:25:29 +0000",
       "undergrowth": "2025-02-17 15:32:56 +0000",
       "ominous_woods": "2025-02-17 19:12:34 +0000"
     },
@@ -276,6 +292,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-02-17 20:30:51 +0000",
       "minecraft:skeleton": "2025-02-16 16:13:16 +0000",
       "minecraft:spider": "2025-02-16 15:25:56 +0000",
       "minecraft:creeper": "2025-02-16 14:30:59 +0000",
@@ -503,9 +520,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-02-17 19:51:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-17 20:12:11 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/dinosaur_nugget": {
     "criteria": {
       "cooked_dinosaur_chop": "2025-02-17 19:50:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-02-17 19:51:43 +0000"
     },
     "done": true
   },
