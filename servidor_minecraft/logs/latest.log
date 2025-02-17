@@ -966,3 +966,33 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Feb2025 15:23:17.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> server will be ob
 [17Feb2025 15:23:18.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zfakeinq lost connection: Disconnected
 [17Feb2025 15:23:18.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq left the game
+[17Feb2025 15:28:57.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiloDog1 lost connection: Disconnected
+[17Feb2025 15:28:57.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 left the game
+[17Feb2025 15:28:57.747] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Feb2025 15:29:01.446] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Black_Impostor lost connection: Timed out
+[17Feb2025 15:29:01.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor left the game
+[17Feb2025 15:29:09.295] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c7d93e4[id=<null>,name=MiloDog1,properties={},legacy=false] (/127.153.225.79:55829) lost connection: Disconnected
+[17Feb2025 15:30:15.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[17Feb2025 15:30:15.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Feb2025 15:30:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Feb2025 15:30:15.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Feb2025 15:30:15.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Feb2025 15:30:15.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:earth_orbit
+[17Feb2025 15:30:15.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:mercury
+[17Feb2025 15:30:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:moon
+[17Feb2025 15:30:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Feb2025 15:30:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[17Feb2025 15:30:15.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:venus
+[17Feb2025 15:30:15.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/northstar:mars
+[17Feb2025 15:30:15.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Feb2025 15:30:15.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Feb2025 15:30:15.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Feb2025 15:30:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17Feb2025 15:30:15.308] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
