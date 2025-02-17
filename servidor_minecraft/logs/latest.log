@@ -737,3 +737,138 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Feb2025 14:36:43.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> nvm
 [17Feb2025 14:36:44.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i dont
 [17Feb2025 14:37:13.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:37:20.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:37:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> and white ink?
+[17Feb2025 14:38:36.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Ok, i may have exaggerated a little with the distance
+[17Feb2025 14:38:45.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> fuck u mean white ink
+[17Feb2025 14:39:11.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [The Perfect Foundation]
+[17Feb2025 14:39:18.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I think he means white dye
+[17Feb2025 14:40:38.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> also if yall want disable yourselfs from the minimap
+[17Feb2025 14:41:29.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How can i do that?
+[17Feb2025 14:41:47.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> open the minimap
+[17Feb2025 14:41:48.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Nice base btw
+[17Feb2025 14:41:49.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> click options
+[17Feb2025 14:41:50.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> multiplayer
+[17Feb2025 14:41:55.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> radar options
+[17Feb2025 14:41:59.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and visible to others no
+[17Feb2025 14:42:00.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ty too
+[17Feb2025 14:42:15.359] [Server thread/INFO] [journeymap/]: mp (FileLoaded) Setting config file to version "5.10.3": journeymap.server.mp.config
+[17Feb2025 14:42:21.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [We Need to Go Deeper]
+[17Feb2025 14:42:23.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[17Feb2025 14:42:33.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How's the spawn?
+[17Feb2025 14:42:43.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> pretty good for now
+[17Feb2025 14:42:45.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ahmad
+[17Feb2025 14:42:47.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> u got a base?
+[17Feb2025 14:42:50.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I meant Milo
+[17Feb2025 14:42:53.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i am doing
+[17Feb2025 14:44:05.276] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/19568, l='ServerLevel[world]', x=-177.00, y=31.00, z=259.00] as it would cause deadlock
+[17Feb2025 14:44:09.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> why i crafted a shovel and got fortune II?
+[17Feb2025 14:44:52.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> zf
+[17Feb2025 14:45:02.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Is there no method of fast transportation in this modpack?
+[17Feb2025 14:45:09.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> jetpack
+[17Feb2025 14:45:10.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> traib
+[17Feb2025 14:45:12.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> train
+[17Feb2025 14:45:42.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Daniel's base is rather intresting let's say
+[17Feb2025 14:45:46.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:46:02.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> aslo
+[17Feb2025 14:46:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> also
+[17Feb2025 14:46:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> orbbing
+[17Feb2025 14:46:10.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> robbing and pvping
+[17Feb2025 14:46:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> is not allowed
+[17Feb2025 14:46:15.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> till day 100
+[17Feb2025 14:46:25.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:46:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I'd advocate to keep robbing illegal
+[17Feb2025 14:46:41.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiloDog1 lost connection: Disconnected
+[17Feb2025 14:46:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 left the game
+[17Feb2025 14:47:08.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What day is it btw?
+[17Feb2025 14:47:11.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> 49
+[17Feb2025 14:47:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> am i the most advanced player on the server atm?
+[17Feb2025 14:47:29.108] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ahmad2016/uberswe_day_1_starter_house_v4z0308s5s.nbt
+[17Feb2025 14:47:35.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> yep
+[17Feb2025 14:47:37.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Possibly
+[17Feb2025 14:47:43.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Do u have create stuff?
+[17Feb2025 14:47:45.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i got a wind turbine
+[17Feb2025 14:47:46.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> press
+[17Feb2025 14:47:47.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> mixer
+[17Feb2025 14:47:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> metallurgic infuser
+[17Feb2025 14:47:52.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> crusher
+[17Feb2025 14:47:55.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> zfakeinq
+[17Feb2025 14:47:59.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> electrolytic separator
+[17Feb2025 14:47:59.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ?
+[17Feb2025 14:48:01.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> whatç
+[17Feb2025 14:48:08.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Might we sign a science collaboration and economic accord?
+[17Feb2025 14:48:18.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> wym
+[17Feb2025 14:48:43.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Basically, tell me how to make and what does the mekanism shit makes and in return i will help you economically
+[17Feb2025 14:48:56.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> and also with the nuclear reactor when we get there
+[17Feb2025 14:48:59.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i'll see
+[17Feb2025 14:49:10.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> first i'll talk with my teammate
+[17Feb2025 14:49:25.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i gonna to explode it
+[17Feb2025 14:49:26.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> mm
+[17Feb2025 14:49:30.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i didn't say nothing
+[17Feb2025 14:49:51.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Also, you said 2 new people were coming?
+[17Feb2025 14:49:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yes
+[17Feb2025 14:50:09.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> may the competent one of them join my team?
+[17Feb2025 14:50:10.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> maybe not today
+[17Feb2025 14:50:18.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> if he wants
+[17Feb2025 14:50:18.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ig
+[17Feb2025 14:50:28.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> wdym if he wants
+[17Feb2025 14:50:35.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i think one want to join with me
+[17Feb2025 14:50:36.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I never agreed to make a team with daniel
+[17Feb2025 14:50:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> then dont team with daniel
+[17Feb2025 14:50:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ok i got hydrogen and oxygen
+[17Feb2025 14:50:56.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> finally
+[17Feb2025 14:51:09.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What are u using them for?
+[17Feb2025 14:51:17.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> multiplicate ores
+[17Feb2025 14:51:41.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 14:51:42.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How much did your teammate help you?
+[17Feb2025 14:51:47.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:51:47.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> overall
+[17Feb2025 14:51:51.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> he got me 3 stacks of ironw
+[17Feb2025 14:51:53.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and 10 diamonds
+[17Feb2025 14:51:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> so far
+[17Feb2025 14:52:06.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i gave you 3 diamonds
+[17Feb2025 14:52:13.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I would like to formally announce that i am fucked because nobody else is competent
+[17Feb2025 14:52:23.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> me?
+[17Feb2025 14:52:43.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Ys, you died more than 3 times to a zombie
+[17Feb2025 14:52:47.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> lag
+[17Feb2025 14:52:53.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> and
+[17Feb2025 14:52:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> how tf do i get out hydrogen
+[17Feb2025 14:53:01.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i didn't have nothing
+[17Feb2025 14:53:02.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ohh
+[17Feb2025 14:53:03.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> fuck
+[17Feb2025 14:53:09.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> wat
+[17Feb2025 14:53:23.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 14:53:45.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Also, zf. Might i apply to join your competent team?
+[17Feb2025 14:53:51.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> who has andesita?
+[17Feb2025 14:53:53.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:54:11.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> me
+[17Feb2025 14:54:16.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> and where fuck i can get it
+[17Feb2025 14:54:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i can give u 1 stack
+[17Feb2025 14:54:23.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> The ground
+[17Feb2025 14:54:25.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> for smth
+[17Feb2025 14:54:30.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> what do you want
+[17Feb2025 14:54:38.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> got iron?
+[17Feb2025 14:54:44.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 14:54:49.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> lemme see
+[17Feb2025 14:55:00.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i have 13 :skull:
+[17Feb2025 14:55:00.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:55:03.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> i can get iron
+[17Feb2025 14:55:08.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yk what
+[17Feb2025 14:55:11.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ill give u it for free
+[17Feb2025 14:55:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> really?
+[17Feb2025 14:55:19.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cmere
+[17Feb2025 14:55:24.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> k
+[17Feb2025 14:56:20.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> zf, are you at your base?
+[17Feb2025 14:56:51.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yes
+[17Feb2025 14:57:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> ty
+[17Feb2025 14:57:02.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> np
+[17Feb2025 14:57:07.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> y como lo hago en trozos
+[17Feb2025 14:57:11.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MiloDog1[/127.153.225.79:48385] logged in with entity id 27031 at (-136.46835569935863, 56.0, 143.4038327708373)
+[17Feb2025 14:57:11.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 joined the game
+[17Feb2025 14:57:11.880] [Server thread/INFO] [Jade/]: Syncing config to MiloDog1 (51486449-3335-365d-ba60-39f1fa34bcdc)
+[17Feb2025 14:57:13.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> aleacion?
+[17Feb2025 14:57:15.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ahmad2016> si
+[17Feb2025 14:57:19.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> mira
+[17Feb2025 14:57:19.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ve
+[17Feb2025 14:57:23.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ven
+[17Feb2025 14:57:32.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> te dejo q uses esta mrd

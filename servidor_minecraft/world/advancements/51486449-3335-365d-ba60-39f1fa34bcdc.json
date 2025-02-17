@@ -253,6 +253,7 @@
     "criteria": {
       "shrubland": "2025-02-16 21:54:10 +0000",
       "rocky_shrubland": "2025-02-17 14:20:44 +0000",
+      "crystalline_chasm": "2025-02-17 14:42:24 +0000",
       "orchard": "2025-02-16 21:53:30 +0000",
       "coniferous_forest": "2025-02-16 17:59:33 +0000",
       "hot_springs": "2025-02-16 19:55:18 +0000",
@@ -267,6 +268,7 @@
       "snowy_fir_clearing": "2025-02-16 19:47:59 +0000",
       "glowing_grotto": "2025-02-16 19:57:36 +0000",
       "gravel_beach": "2025-02-16 19:41:11 +0000",
+      "undergrowth": "2025-02-17 14:45:22 +0000",
       "snowy_maple_woods": "2025-02-16 19:52:39 +0000"
     },
     "done": false
@@ -482,9 +484,27 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-17 14:33:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-02-17 14:18:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-17 14:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-17 14:42:21 +0000"
     },
     "done": true
   },

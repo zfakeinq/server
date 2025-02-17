@@ -385,15 +385,33 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
+  "minecraft:story/mine_diamond": {
     "criteria": {
-      "crying_obsidian": "2025-02-16 20:59:58 +0000"
+      "diamond": "2025-02-16 20:32:45 +0000"
     },
     "done": true
   },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-02-16 20:36:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-02-16 20:55:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-16 20:59:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-16 20:59:58 +0000"
     },
     "done": true
   },
@@ -409,27 +427,9 @@
     },
     "done": true
   },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2025-02-16 20:32:45 +0000"
-    },
-    "done": true
-  },
   "supplementaries:adventure/globe": {
     "criteria": {
       "unlock": "2025-02-16 21:08:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-02-16 20:59:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-02-16 20:55:23 +0000"
     },
     "done": true
   },

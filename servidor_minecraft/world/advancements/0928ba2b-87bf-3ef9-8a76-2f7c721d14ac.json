@@ -248,7 +248,8 @@
       "redwood_forest": "2025-02-16 14:58:26 +0000",
       "aspen_glade": "2025-02-16 15:53:41 +0000",
       "seasonal_forest": "2025-02-16 15:50:12 +0000",
-      "pumpkin_patch": "2025-02-16 15:49:00 +0000"
+      "pumpkin_patch": "2025-02-16 15:49:00 +0000",
+      "prairie": "2025-02-17 14:43:00 +0000"
     },
     "done": false
   },
@@ -294,6 +295,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-02-17 14:36:53 +0000",
       "cooked_mutton": "2025-02-16 14:27:17 +0000",
       "bread": "2025-02-16 18:14:59 +0000",
       "cooked_chicken": "2025-02-16 15:23:14 +0000"
