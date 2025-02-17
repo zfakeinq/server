@@ -610,3 +610,73 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [17Feb2025 14:05:42.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
 [17Feb2025 14:05:45.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
 [17Feb2025 14:05:53.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:07:39.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq was blown up by Creeper
+[17Feb2025 14:07:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:07:50.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Applied effect Night Vision to zfakeinq]
+[17Feb2025 14:08:24.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 14:08:24.274] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MiloDog1[/127.153.225.79:53325] logged in with entity id 2937 at (-410.69999998807907, 64.0, 360.75324560759844)
+[17Feb2025 14:08:24.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 joined the game
+[17Feb2025 14:08:24.314] [Server thread/INFO] [Jade/]: Syncing config to MiloDog1 (51486449-3335-365d-ba60-39f1fa34bcdc)
+[17Feb2025 14:08:33.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:08:34.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[17Feb2025 14:08:37.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:08:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:09:26.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[17Feb2025 14:10:35.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Removed every effect from zfakeinq]
+[17Feb2025 14:11:07.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[17Feb2025 14:12:53.877] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Feb2025 14:12:53.883] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=971, z=1073200}"
+}
+[17Feb2025 14:12:53.883] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 11 extra bytes: 
+[17Feb2025 14:12:53.885] [Netty Epoll Server IO #0/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "<partial numeric data>",
+  "[-74, 48, 21, 50, -44, 48, -80, -88, 28, 6, 102]"
+]
+[17Feb2025 14:12:56.459] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Feb2025 14:12:56.460] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=2622464, y=1018, z=1073200}"
+}
+[17Feb2025 14:12:56.460] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 45 extra bytes: 
+[17Feb2025 14:12:56.461] [Netty Epoll Server IO #1/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "#|EC\\[0?s(O(E} MLC"
+]
+[17Feb2025 14:13:12.099] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Feb2025 14:13:12.100] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 1,
+  "f_133799_": "BlockPos{x=5768192, y=896, z=1122352}"
+}
+[17Feb2025 14:13:12.100] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 16 extra bytes: 
+[17Feb2025 14:13:12.100] [Netty Epoll Server IO #2/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "~gL&-:76{"
+]
+[17Feb2025 14:13:12.803] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Feb2025 14:13:12.804] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-8125440, y=822, z=905264}"
+}
+[17Feb2025 14:13:12.805] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 36 extra bytes: 
+[17Feb2025 14:13:12.805] [Netty Epoll Server IO #3/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "xt?oyq34LUh3"
+]
+[17Feb2025 14:13:13.179] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:ServerboundBlockEntityTagQuery  id 1 larger than expected error detected, printing packet and buffer. Stacktrace gets logged after this
+[17Feb2025 14:13:13.180] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+{
+  "f_133798_": 0,
+  "f_133799_": "BlockPos{x=-11271168, y=895, z=856112}"
+}
+[17Feb2025 14:13:13.180] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet:PooledUnsafeDirectByteBuf  id 1 data of 33 extra bytes: 
+[17Feb2025 14:13:13.181] [Netty Epoll Server IO #5/WARN] [com.connectivity.Connectivity/]: Packet data:
+[
+  "Jge?{PC]8"
+]
