@@ -106,6 +106,7 @@
       "minecraft:deep_ocean": "2025-02-16 19:25:42 +0000",
       "minecraft:frozen_river": "2025-02-16 19:51:29 +0000",
       "minecraft:birch_forest": "2025-02-16 21:49:02 +0000",
+      "minecraft:windswept_hills": "2025-02-17 19:22:03 +0000",
       "minecraft:beach": "2025-02-16 18:17:55 +0000",
       "minecraft:river": "2025-02-16 19:20:31 +0000",
       "minecraft:snowy_plains": "2025-02-16 19:51:33 +0000",
@@ -540,6 +541,30 @@
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-02-17 16:47:21 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-02-17 19:34:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-02-17 19:34:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_grottoceratops": "2025-02-17 19:35:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2025-02-17 19:38:50 +0000"
     },
     "done": true
   },

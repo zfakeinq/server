@@ -261,6 +261,7 @@
       "seasonal_forest": "2025-02-16 19:36:49 +0000",
       "dead_forest": "2025-02-16 19:55:12 +0000",
       "prairie": "2025-02-16 12:41:53 +0000",
+      "grassland": "2025-02-17 19:49:55 +0000",
       "snowy_coniferous_forest": "2025-02-16 19:52:36 +0000",
       "snowy_fir_clearing": "2025-02-16 19:48:24 +0000",
       "glowing_grotto": "2025-02-16 19:56:35 +0000",
@@ -636,6 +637,42 @@
   "mekanismgenerators:burn_the_gas": {
     "criteria": {
       "gas_burning_generator": "2025-02-17 15:12:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_grottoceratops": "2025-02-17 19:35:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-17 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-02-17 19:34:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-17 19:47:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-02-17 19:34:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2025-02-17 19:35:53 +0000"
     },
     "done": true
   },
