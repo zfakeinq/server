@@ -663,69 +663,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_grottoceratops": "2025-02-17 19:35:48 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-02-17 20:32:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-02-17 20:23:05 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-02-17 19:47:30 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2025-02-17 19:34:41 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
-    "criteria": {
-      "bosses_of_mass_destruction:lich": "2025-02-17 20:40:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cooked_dinosaur_chop": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-02-17 19:47:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-02-17 20:12:35 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-02-17 20:10:37 +0000"
-    },
-    "done": true
-  },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-02-17 20:16:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-02-17 20:10:37 +0000"
     },
     "done": true
   },
@@ -735,15 +675,75 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_grottoceratops": "2025-02-17 19:35:48 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_grottoceratops": "2025-02-17 19:35:53 +0000"
     },
     "done": true
   },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-17 19:47:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-02-17 19:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-02-17 20:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-02-17 20:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-02-17 20:12:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-02-17 20:15:19 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-17 20:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-17 20:23:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-17 20:32:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:adventure/night_lich_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:lich": "2025-02-17 20:40:15 +0000"
     },
     "done": true
   },
