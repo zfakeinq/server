@@ -325,7 +325,8 @@
       "cooked_porkchop": "2025-02-16 20:19:40 +0000",
       "cooked_mutton": "2025-02-16 12:51:08 +0000",
       "cooked_beef": "2025-02-16 14:36:59 +0000",
-      "golden_apple": "2025-02-17 20:39:01 +0000"
+      "golden_apple": "2025-02-17 20:39:01 +0000",
+      "bread": "2025-02-18 14:45:37 +0000"
     },
     "done": false
   },
@@ -750,6 +751,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-18 14:35:06 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-02-18 14:50:49 +0000"
     },
     "done": true
   },

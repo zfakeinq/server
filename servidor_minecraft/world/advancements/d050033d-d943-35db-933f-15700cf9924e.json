@@ -281,7 +281,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-02-16 14:23:39 +0000",
+      "cooked_mutton": "2025-02-18 14:49:42 +0000",
       "cooked_beef": "2025-02-16 17:58:41 +0000",
+      "bread": "2025-02-18 14:49:27 +0000",
       "cooked_chicken": "2025-02-16 14:23:31 +0000",
       "carrot": "2025-02-16 19:23:12 +0000"
     },
@@ -409,6 +411,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-17 20:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-18 14:47:23 +0000"
     },
     "done": true
   },
