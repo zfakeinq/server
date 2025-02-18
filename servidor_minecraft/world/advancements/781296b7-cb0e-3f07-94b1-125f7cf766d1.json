@@ -358,6 +358,7 @@
       "minecraft:phantom": "2025-02-16 19:44:56 +0000",
       "minecraft:witch": "2025-02-17 14:07:29 +0000",
       "minecraft:wither_skeleton": "2025-02-17 20:15:48 +0000",
+      "minecraft:cave_spider": "2025-02-18 14:57:41 +0000",
       "minecraft:enderman": "2025-02-16 19:21:41 +0000",
       "minecraft:zombie": "2025-02-16 13:03:32 +0000",
       "minecraft:drowned": "2025-02-16 19:45:43 +0000"
@@ -748,6 +749,12 @@
     },
     "done": true
   },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-02-18 14:58:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-02-18 14:35:06 +0000"
@@ -757,6 +764,12 @@
   "mekanismtools:alternate_tools": {
     "criteria": {
       "tools": "2025-02-18 14:50:49 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-02-18 14:58:57 +0000"
     },
     "done": true
   },
