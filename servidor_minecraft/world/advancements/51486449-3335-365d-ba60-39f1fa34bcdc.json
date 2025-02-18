@@ -352,6 +352,7 @@
       "minecraft:creeper": "2025-02-16 20:29:31 +0000",
       "minecraft:wither_skeleton": "2025-02-17 15:05:09 +0000",
       "minecraft:cave_spider": "2025-02-16 20:26:49 +0000",
+      "quark:wraith": "2025-02-18 15:46:35 +0000",
       "minecraft:enderman": "2025-02-16 20:58:29 +0000",
       "minecraft:zombie": "2025-02-16 20:05:48 +0000"
     },
@@ -576,9 +577,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tame_an_animal": {
+  "alexscaves:alexscaves/tree_star": {
     "criteria": {
-      "tamed_animal": "2025-02-17 20:20:46 +0000"
+      "tree_star": "2025-02-17 19:57:28 +0000"
     },
     "done": true
   },
@@ -588,15 +589,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-02-17 19:57:28 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/primitive_club": {
     "criteria": {
       "limestone": "2025-02-17 19:58:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/serene_salad": {
+    "criteria": {
+      "serene_salad": "2025-02-17 19:59:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-02-17 20:20:46 +0000"
     },
     "done": true
   },
@@ -606,11 +613,11 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/serene_salad": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "serene_salad": "2025-02-17 19:59:04 +0000"
+      "minecraft:soul_sand_valley": "2025-02-18 15:46:25 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }
