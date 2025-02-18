@@ -1033,3 +1033,4 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
   "[1, 5, 6]"
 ]
 [18Feb2025 14:24:04.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Ice Bucket Challenge]
+[18Feb2025 14:35:06.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Enchanter]
