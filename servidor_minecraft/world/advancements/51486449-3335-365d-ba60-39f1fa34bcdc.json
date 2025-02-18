@@ -618,9 +618,30 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-02-18 15:48:03 +0000",
+      "minecraft:soul_sand_valley": "2025-02-18 15:46:25 +0000",
+      "minecraft:basalt_deltas": "2025-02-18 15:52:04 +0000",
+      "minecraft:warped_forest": "2025-02-18 16:00:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-02-18 15:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-02-18 15:55:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-02-18 16:02:05 +0000"
     },
     "done": true
   },
@@ -633,27 +654,6 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "supplementaries:flax": "2025-02-18 16:16:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-02-18 15:48:03 +0000",
-      "minecraft:soul_sand_valley": "2025-02-18 15:46:25 +0000",
-      "minecraft:basalt_deltas": "2025-02-18 15:52:04 +0000",
-      "minecraft:warped_forest": "2025-02-18 16:00:53 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-02-18 15:55:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-02-18 16:02:05 +0000"
     },
     "done": true
   },
