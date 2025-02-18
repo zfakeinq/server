@@ -267,6 +267,7 @@
       "minecraft:skeleton": "2025-02-17 19:36:20 +0000",
       "minecraft:spider": "2025-02-17 19:41:38 +0000",
       "minecraft:creeper": "2025-02-16 14:11:40 +0000",
+      "quark:forgotten": "2025-02-18 16:04:41 +0000",
       "minecraft:witch": "2025-02-18 15:24:03 +0000",
       "minecraft:cave_spider": "2025-02-18 15:34:53 +0000",
       "minecraft:enderman": "2025-02-17 20:35:28 +0000",
@@ -414,6 +415,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-02-17 20:59:00 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-02-18 15:57:46 +0000"
     },
     "done": true
   },

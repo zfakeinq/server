@@ -2625,3 +2625,55 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [18Feb2025 15:47:32.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i got one
 [18Feb2025 15:47:39.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> ponder one?
 [18Feb2025 15:47:44.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> sing
+[18Feb2025 15:47:46.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> a
+[18Feb2025 15:47:52.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> i have ponder and sing
+[18Feb2025 15:49:13.677] [Worker-Main-95/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31700, l='ServerLevel[world]', x=608.90, y=31.00, z=204.00] as it would cause deadlock
+[18Feb2025 15:49:16.403] [Worker-Main-95/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31744, l='ServerLevel[world]', x=580.00, y=31.00, z=303.00] as it would cause deadlock
+[18Feb2025 15:51:26.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has completed the challenge [Return to Sender]
+[18Feb2025 15:53:14.781] [Worker-Main-99/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34610, l='ServerLevel[world]', x=681.00, y=31.00, z=-201.00] as it would cause deadlock
+[18Feb2025 15:54:14.390] [Worker-Main-44/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/35289, l='ServerLevel[world]', x=884.00, y=31.00, z=146.00] as it would cause deadlock
+[18Feb2025 15:55:10.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [A Terrible Fortress]
+[18Feb2025 15:56:06.497] [Worker-Main-43/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36340, l='ServerLevel[world]', x=736.90, y=31.00, z=-326.00] as it would cause deadlock
+[18Feb2025 15:56:15.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 withered away
+[18Feb2025 15:56:23.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> what
+[18Feb2025 15:57:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel has made the advancement [Alex's Caves]
+[18Feb2025 15:57:50.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> oh my gyatt
+[18Feb2025 15:57:53.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> thanks for the cave zf
+[18Feb2025 15:57:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> np
+[18Feb2025 15:58:50.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zfakeinq lost connection: Disconnected
+[18Feb2025 15:58:50.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq left the game
+[18Feb2025 15:58:54.785] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zfakeinq[/127.162.19.129:43935] logged in with entity id 38401 at (-652.0368303310217, 67.0, 63.2768656665756)
+[18Feb2025 15:58:54.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq joined the game
+[18Feb2025 15:58:54.810] [Server thread/INFO] [Jade/]: Syncing config to zfakeinq (781296b7-cb0e-3f07-94b1-125f7cf766d1)
+[18Feb2025 15:58:57.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> cold
+[18Feb2025 15:59:01.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> brb im goin to singleplayer
+[18Feb2025 15:59:03.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zfakeinq lost connection: Disconnected
+[18Feb2025 15:59:03.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq left the game
+[18Feb2025 15:59:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> kk
+[18Feb2025 16:00:30.095] [Worker-Main-99/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39383, l='ServerLevel[world]', x=-314.00, y=86.00, z=556.00] as it would cause deadlock
+[18Feb2025 16:00:42.290] [Worker-Main-94/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39434, l='ServerLevel[world]', x=-358.00, y=31.00, z=584.00] as it would cause deadlock
+[18Feb2025 16:01:16.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> bomb
+[18Feb2025 16:01:17.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> yo
+[18Feb2025 16:02:05.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [Into Fire]
+[18Feb2025 16:06:58.322] [Worker-Main-107/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41067, l='ServerLevel[world]', x=-563.00, y=31.00, z=386.00] as it would cause deadlock
+[18Feb2025 16:07:00.183] [Worker-Main-40/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/41104, l='ServerLevel[world]', x=-584.00, y=31.00, z=465.00] as it would cause deadlock
+[18Feb2025 16:07:37.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [Not Today, Thank You]
+[18Feb2025 16:08:58.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Daniel> what the fuck
+[18Feb2025 16:11:10.032] [Worker-Main-99/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42227, l='ServerLevel[world]', x=-751.10, y=31.00, z=556.00] as it would cause deadlock
+[18Feb2025 16:11:16.077] [Worker-Main-44/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42267, l='ServerLevel[world]', x=-767.00, y=31.00, z=564.00] as it would cause deadlock
+[18Feb2025 16:12:31.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 tried to swim in lava
+[18Feb2025 16:12:56.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel fell from a high place
+[18Feb2025 16:16:15.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 has made the advancement [A Seedy Place]
+[18Feb2025 16:16:48.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiloDog1 moved too quickly! 2.1183676794624944,0.0,9.785963060177252
+[18Feb2025 16:17:07.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 was slain by Zombie
+[18Feb2025 16:17:22.162] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Daniel lost connection: Disconnected
+[18Feb2025 16:17:22.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel left the game
+[18Feb2025 16:17:22.211] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Feb2025 16:17:26.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MiloDog1 lost connection: Timed out
+[18Feb2025 16:17:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 left the game
+[18Feb2025 16:17:43.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MiloDog1[/127.153.225.79:53483] logged in with entity id 44398 at (-576.3758264417785, 64.0, 77.10952510458324)
+[18Feb2025 16:17:43.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 joined the game
+[18Feb2025 16:17:43.900] [Server thread/INFO] [Jade/]: Syncing config to MiloDog1 (51486449-3335-365d-ba60-39f1fa34bcdc)
+[18Feb2025 16:17:54.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Daniel[/127.136.83.96:37719] logged in with entity id 44533 at (-298.3428949510794, 72.0, -43.060089427579776)
+[18Feb2025 16:17:54.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Daniel joined the game
+[18Feb2025 16:17:54.124] [Server thread/INFO] [Jade/]: Syncing config to Daniel (d050033d-d943-35db-933f-15700cf9924e)

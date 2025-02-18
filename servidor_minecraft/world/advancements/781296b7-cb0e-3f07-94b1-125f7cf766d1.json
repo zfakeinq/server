@@ -749,15 +749,9 @@
     },
     "done": true
   },
-  "mekanismtools:better_than_netherite": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "armor": "2025-02-18 14:58:57 +0000"
-    },
-    "done": true
-  },
-  "create:brass": {
-    "criteria": {
-      "0": "2025-02-18 15:41:26 +0000"
+      "obsidian": "2025-02-18 14:24:04 +0000"
     },
     "done": true
   },
@@ -773,6 +767,12 @@
     },
     "done": true
   },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-02-18 14:58:57 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-02-18 14:58:57 +0000"
@@ -785,9 +785,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "create:brass": {
     "criteria": {
-      "obsidian": "2025-02-18 14:24:04 +0000"
+      "0": "2025-02-18 15:41:26 +0000"
     },
     "done": true
   },
