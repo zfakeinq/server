@@ -326,7 +326,8 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2025-02-16 19:17:42 +0000"
+      "sugar_cane": "2025-02-16 19:17:42 +0000",
+      "wheat": "2025-02-19 16:23:23 +0000"
     },
     "done": false
   },
