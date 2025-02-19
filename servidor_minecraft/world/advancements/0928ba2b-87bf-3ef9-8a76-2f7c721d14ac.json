@@ -210,6 +210,7 @@
       "minecraft:frozen_river": "2025-02-16 15:56:10 +0000",
       "minecraft:birch_forest": "2025-02-16 14:42:01 +0000",
       "minecraft:beach": "2025-02-17 15:02:23 +0000",
+      "minecraft:dark_forest": "2025-02-18 17:25:20 +0000",
       "minecraft:river": "2025-02-16 14:44:30 +0000",
       "minecraft:snowy_plains": "2025-02-16 15:54:53 +0000",
       "minecraft:stony_shore": "2025-02-17 20:24:32 +0000",
@@ -294,9 +295,11 @@
     "criteria": {
       "minecraft:pillager": "2025-02-17 20:30:51 +0000",
       "minecraft:skeleton": "2025-02-16 16:13:16 +0000",
+      "minecraft:ghast": "2025-02-18 17:42:31 +0000",
       "minecraft:spider": "2025-02-16 15:25:56 +0000",
       "minecraft:creeper": "2025-02-16 14:30:59 +0000",
       "minecraft:phantom": "2025-02-17 20:37:21 +0000",
+      "minecraft:enderman": "2025-02-18 18:47:34 +0000",
       "minecraft:zombie": "2025-02-16 14:22:44 +0000",
       "quark:foxhound": "2025-02-16 18:42:04 +0000"
     },
@@ -324,6 +327,8 @@
     "criteria": {
       "cooked_porkchop": "2025-02-17 14:36:53 +0000",
       "cooked_mutton": "2025-02-16 14:27:17 +0000",
+      "cooked_beef": "2025-02-18 18:22:30 +0000",
+      "apple": "2025-02-18 16:57:43 +0000",
       "bread": "2025-02-16 18:14:59 +0000",
       "cooked_chicken": "2025-02-16 15:23:14 +0000"
     },
@@ -521,15 +526,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "killed_by_vallumraptor": "2025-02-17 19:51:57 +0000"
+      "supplementaries:flax": "2025-02-17 19:24:49 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/root": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "underground_cabin": "2025-02-17 20:12:11 +0000"
+      "diamond_knife": "2025-02-17 19:34:33 +0000"
     },
     "done": true
   },
@@ -545,15 +550,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "supplementaries:flax": "2025-02-17 19:24:49 +0000"
+      "killed_by_vallumraptor": "2025-02-17 19:51:57 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/craft_knife": {
+  "alexscaves:alexscaves/root": {
     "criteria": {
-      "diamond_knife": "2025-02-17 19:34:33 +0000"
+      "underground_cabin": "2025-02-17 20:12:11 +0000"
     },
     "done": true
   },
@@ -562,6 +567,18 @@
       "phantom": "2025-02-17 20:37:21 +0000"
     },
     "done": false
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-02-18 16:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-02-18 18:50:25 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

@@ -211,8 +211,10 @@
       "minecraft:dark_forest": "2025-02-17 19:40:11 +0000",
       "minecraft:river": "2025-02-16 19:09:51 +0000",
       "minecraft:dripstone_caves": "2025-02-16 14:33:04 +0000",
+      "minecraft:cold_ocean": "2025-02-18 16:24:12 +0000",
       "minecraft:forest": "2025-02-16 13:54:52 +0000",
       "minecraft:windswept_forest": "2025-02-16 19:11:01 +0000",
+      "minecraft:ocean": "2025-02-18 16:24:18 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 19:10:49 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-17 19:31:46 +0000",
       "minecraft:plains": "2025-02-16 13:46:16 +0000"
@@ -271,7 +273,8 @@
       "minecraft:witch": "2025-02-18 15:24:03 +0000",
       "minecraft:cave_spider": "2025-02-18 15:34:53 +0000",
       "minecraft:enderman": "2025-02-17 20:35:28 +0000",
-      "minecraft:zombie": "2025-02-16 14:07:59 +0000"
+      "minecraft:zombie": "2025-02-16 14:07:59 +0000",
+      "minecraft:drowned": "2025-02-18 18:42:57 +0000"
     },
     "done": false
   },
@@ -368,10 +371,12 @@
       "coniferous_forest": "2025-02-16 19:05:17 +0000",
       "spider_nest": "2025-02-17 19:12:27 +0000",
       "redwood_forest": "2025-02-16 19:07:20 +0000",
+      "dune_beach": "2025-02-18 16:26:55 +0000",
       "seasonal_forest": "2025-02-16 19:19:50 +0000",
       "prairie": "2025-02-16 19:05:07 +0000",
       "grassland": "2025-02-17 19:42:54 +0000",
       "glowing_grotto": "2025-02-17 19:56:24 +0000",
+      "gravel_beach": "2025-02-18 16:24:04 +0000",
       "ominous_woods": "2025-02-16 19:07:19 +0000"
     },
     "done": false
@@ -427,6 +432,36 @@
   "alexscaves:alexscaves/root": {
     "criteria": {
       "underground_cabin": "2025-02-18 15:57:46 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-18 16:32:20 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_tools": {
+    "criteria": {
+      "tools": "2025-02-18 16:41:55 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-02-18 16:45:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-02-18 16:50:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-02-18 18:25:57 +0000"
     },
     "done": true
   },

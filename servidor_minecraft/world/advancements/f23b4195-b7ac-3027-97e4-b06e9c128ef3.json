@@ -277,6 +277,7 @@
       "mutton": "2025-02-16 14:48:49 +0000",
       "rotten_flesh": "2025-02-16 15:32:19 +0000",
       "suspicious_stew": "2025-02-16 18:01:20 +0000",
+      "dried_kelp": "2025-02-18 17:35:50 +0000",
       "carrot": "2025-02-16 20:18:23 +0000"
     },
     "done": false
@@ -329,6 +330,7 @@
       "redwood_forest": "2025-02-16 14:23:07 +0000",
       "lavender_field": "2025-02-16 14:28:00 +0000",
       "prairie": "2025-02-16 14:23:41 +0000",
+      "grassland": "2025-02-18 18:30:07 +0000",
       "undergrowth": "2025-02-16 21:01:52 +0000"
     },
     "done": false
@@ -444,6 +446,12 @@
   "create:andesite_casing": {
     "criteria": {
       "0": "2025-02-17 15:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-02-18 18:22:17 +0000"
     },
     "done": true
   },
