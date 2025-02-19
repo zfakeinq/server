@@ -857,6 +857,12 @@
     },
     "done": true
   },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-02-19 16:06:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/plant_rice": {
     "criteria": {
       "plant_rice": "2025-02-19 15:10:50 +0000"
