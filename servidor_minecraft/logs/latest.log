@@ -1090,3 +1090,201 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [19Feb2025 14:58:51.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> boots and pants
 [19Feb2025 15:01:00.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> tell me when ur don
 [19Feb2025 15:02:50.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> do we require any other supplies?
+[19Feb2025 15:04:44.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> no
+[19Feb2025 15:04:46.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> fod
+[19Feb2025 15:04:47.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> done
+[19Feb2025 15:04:52.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> i got some
+[19Feb2025 15:04:56.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> almost done
+[19Feb2025 15:05:14.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> also when northstar upd releases
+[19Feb2025 15:05:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> we dont need to use trains anymore tbh
+[19Feb2025 15:05:27.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> y?
+[19Feb2025 15:05:35.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> we can use the rocket to go from a place to another
+[19Feb2025 15:05:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> its way cheaper
+[19Feb2025 15:05:47.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> That requires intensive fuel production
+[19Feb2025 15:05:56.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> once we have electrolyosis its easy
+[19Feb2025 15:06:01.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Also, i am ready
+[19Feb2025 15:06:05.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and fast traveling over 3000 blocks
+[19Feb2025 15:06:06.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> for like cavd
+[19Feb2025 15:06:09.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ok come
+[19Feb2025 15:06:15.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> To where
+[19Feb2025 15:06:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> the island
+[19Feb2025 15:06:27.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> roger roger
+[19Feb2025 15:07:11.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cmere
+[19Feb2025 15:08:32.301] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-1125, y=67, z=-853}
+[19Feb2025 15:08:50.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> wya
+[19Feb2025 15:09:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> also do u liek the server
+[19Feb2025 15:09:22.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ?
+[19Feb2025 15:09:25.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> yea
+[19Feb2025 15:10:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> tf
+[19Feb2025 15:10:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> here?
+[19Feb2025 15:10:12.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> how did i take dmg
+[19Feb2025 15:10:23.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yo
+[19Feb2025 15:10:29.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> this is a dope place to make a factory or smth
+[19Feb2025 15:10:31.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I cant figure out how to harvest this
+[19Feb2025 15:10:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> stop
+[19Feb2025 15:10:41.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> how do you get the plant
+[19Feb2025 15:10:46.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> so you can like replant
+[19Feb2025 15:10:48.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> THIS is the plant
+[19Feb2025 15:10:57.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> oh
+[19Feb2025 15:10:59.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> can i have iot?
+[19Feb2025 15:11:03.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I just solved our food issues
+[19Feb2025 15:12:27.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> yooo
+[19Feb2025 15:12:30.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> tf
+[19Feb2025 15:12:34.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> huge lily pad
+[19Feb2025 15:12:46.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> the cave is next to a wasteland
+[19Feb2025 15:14:25.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> wait for me
+[19Feb2025 15:15:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i feel like this is gonna be pretty far away
+[19Feb2025 15:15:35.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> remember, no dying
+[19Feb2025 15:16:25.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> wait
+[19Feb2025 15:16:30.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> he is much smaller than i remember
+[19Feb2025 15:16:51.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> wait for me...
+[19Feb2025 15:16:51.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> holy shit
+[19Feb2025 15:17:06.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> its here
+[19Feb2025 15:17:12.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> poop water!
+[19Feb2025 15:17:18.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> its a waste land
+[19Feb2025 15:17:20.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> must be here
+[19Feb2025 15:17:23.981] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=-3323, y=70, z=-2901}
+[19Feb2025 15:17:24.952] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3323, y=70, z=-2901} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[19Feb2025 15:17:24.952] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3323, y=70, z=-2901}
+[19Feb2025 15:17:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> sir
+[19Feb2025 15:17:35.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> cmere
+[19Feb2025 15:17:39.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> behind u
+[19Feb2025 15:17:45.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> get the food
+[19Feb2025 15:17:46.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ill find it
+[19Feb2025 15:18:00.782] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-3515, y=70, z=-2949}
+[19Feb2025 15:18:01.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3515, y=70, z=-2949} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] at location
+[19Feb2025 15:18:01.133] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=true,waterlogged=false,west=false] but failed at location BlockPos{x=-3515, y=70, z=-2949}
+[19Feb2025 15:18:06.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> villagers hgave brown water
+[19Feb2025 15:18:12.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> africa
+[19Feb2025 15:18:49.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> where tf is this
+[19Feb2025 15:19:03.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> finally my cursor is moving
+[19Feb2025 15:20:18.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> where'd u go?
+[19Feb2025 15:20:21.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I got food
+[19Feb2025 15:20:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ill send coords
+[19Feb2025 15:20:27.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> once
+[19Feb2025 15:20:28.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i find
+[19Feb2025 15:20:40.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> i'll get some bone blocks
+[19Feb2025 15:22:04.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i recommend u start going
+[19Feb2025 15:22:05.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> north
+[19Feb2025 15:23:26.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> mangrove swamp?
+[19Feb2025 15:23:34.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i passed trough that 2 mins ago
+[19Feb2025 15:23:48.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> jungle village
+[19Feb2025 15:24:20.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> willow forest
+[19Feb2025 15:26:10.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> BRO IM 7 KM AWAY
+[19Feb2025 15:26:11.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> WHERE IS IT
+[19Feb2025 15:26:34.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What is ur current position?
+[19Feb2025 15:26:37.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> YES
+[19Feb2025 15:26:39.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> YES
+[19Feb2025 15:26:41.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> WASTELAND
+[19Feb2025 15:26:44.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> coords
+[19Feb2025 15:26:52.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> 1 SEC
+[19Feb2025 15:27:31.802] [pool-6-thread-3/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-3899, y=69, z=-6981}
+[19Feb2025 15:27:33.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Black_Impostor moved too quickly! 7.948914769622661,4.760685248026789,-4.450533778876888
+[19Feb2025 15:27:36.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> [x:-3912, y:70, z:-6822, dim:minecraft:overworld]
+[19Feb2025 15:28:01.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> LAG
+[19Feb2025 15:28:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> my fps just dropped to 30
+[19Feb2025 15:28:09.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> for 10 secs
+[19Feb2025 15:28:34.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> will we add currency?
+[19Feb2025 15:28:41.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> there is
+[19Feb2025 15:28:43.155] [pool-6-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-3275, y=71, z=-4763}
+[19Feb2025 15:28:43.679] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3275, y=71, z=-4763} but found not block entity block Block{minecraft:stripped_spruce_log}[axis=y] at location
+[19Feb2025 15:28:43.679] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stripped_spruce_log}[axis=y] but failed at location BlockPos{x=-3275, y=71, z=-4763}
+[19Feb2025 15:28:44.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made zfakeinq a server operator
+[19Feb2025 15:28:47.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[19Feb2025 15:28:47.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> huh?
+[19Feb2025 15:29:00.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ...
+[19Feb2025 15:29:03.886] [pool-6-thread-4/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=-3211, y=72, z=-5093}
+[19Feb2025 15:29:03.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i hate this game
+[19Feb2025 15:29:04.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3212, y=69, z=-5093} but found not block entity block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] at location
+[19Feb2025 15:29:04.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_slab}[type=bottom,waterlogged=false] but failed at location BlockPos{x=-3212, y=69, z=-5093}
+[19Feb2025 15:29:04.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3211, y=72, z=-5093} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[19Feb2025 15:29:04.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-3211, y=72, z=-5093}
+[19Feb2025 15:29:04.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3212, y=70, z=-5092} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[19Feb2025 15:29:04.782] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=-3212, y=70, z=-5092}
+[19Feb2025 15:29:04.783] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-3212, y=69, z=-5092} but found not block entity block Block{minecraft:stone} at location
+[19Feb2025 15:29:04.783] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-3212, y=69, z=-5092}
+[19Feb2025 15:29:09.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> whgat
+[19Feb2025 15:29:14.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> there is no magnetic cave
+[19Feb2025 15:29:21.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[19Feb2025 15:29:31.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[19Feb2025 15:29:32.278] [Worker-Main-60/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/50725, l='ServerLevel[world]', x=-3400.50, y=54.00, z=-5324.50] as it would cause deadlock
+[19Feb2025 15:29:45.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> nope.
+[19Feb2025 15:29:52.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ok ill use /locate then
+[19Feb2025 15:30:19.438] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #alexscaves:alexs_caves_biomes (alexscaves:toxic_caves) took 38 ms
+[19Feb2025 15:30:25.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Teleported zfakeinq to -4603.500000, 9.000000, -7219.500000]
+[19Feb2025 15:30:25.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3032ms or 60 ticks behind
+[19Feb2025 15:30:25.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Black_Impostor moved too quickly! -3.787759037977139,-0.2413569266289386,-9.739579392729866
+[19Feb2025 15:30:29.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> sleep
+[19Feb2025 15:30:35.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> yep its bugged
+[19Feb2025 15:30:52.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> fuckkk
+[19Feb2025 15:30:55.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> No magnetic caves?
+[19Feb2025 15:31:02.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> no
+[19Feb2025 15:31:09.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> can i use creative to get the items then?
+[19Feb2025 15:31:14.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Can we atleast use specator to get home
+[19Feb2025 15:31:28.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Teleported Black_Impostor to zfakeinq]
+[19Feb2025 15:31:30.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[19Feb2025 15:31:34.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [Tech-It]
+[19Feb2025 15:31:45.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[19Feb2025 15:31:49.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[19Feb2025 15:31:54.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> What does it do?
+[19Feb2025 15:32:53.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> So, zf, what currency is there?
+[19Feb2025 15:33:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zfakeinq has made the advancement [An Alloy To Remember]
+[19Feb2025 15:33:10.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[19Feb2025 15:33:11.541] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MiloDog1[/127.153.225.79:40419] logged in with entity id 54219 at (501.15775280374146, 72.0, 389.0062243805355)
+[19Feb2025 15:33:11.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MiloDog1 joined the game
+[19Feb2025 15:33:11.564] [Server thread/INFO] [Jade/]: Syncing config to MiloDog1 (51486449-3335-365d-ba60-39f1fa34bcdc)
+[19Feb2025 15:33:18.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> negro
+[19Feb2025 15:33:21.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> nigga
+[19Feb2025 15:33:33.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> where are u zf?
+[19Feb2025 15:33:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> wait
+[19Feb2025 15:34:43.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Teleported Black_Impostor to zfakeinq]
+[19Feb2025 15:34:55.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[19Feb2025 15:35:12.587] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.cerbon.bosses_of_mass_destruction.entity.util.BaseEntity from class com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox.NetworkedHitboxManager
+[19Feb2025 15:35:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> milot
+[19Feb2025 15:35:15.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> llams
+[19Feb2025 15:35:17.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> llamas
+[19Feb2025 15:35:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ?
+[19Feb2025 15:35:18.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> k
+[19Feb2025 15:36:10.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
+[19Feb2025 15:36:18.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[19Feb2025 15:36:48.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Creative Mode]
+[19Feb2025 15:37:28.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> zf
+[19Feb2025 15:37:32.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ?
+[19Feb2025 15:37:40.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Are you placing the drill?
+[19Feb2025 15:37:45.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> quarry?
+[19Feb2025 15:37:48.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Teleported Black_Impostor to zfakeinq]
+[19Feb2025 15:37:48.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Yep
+[19Feb2025 15:37:51.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Made zfakeinq no longer a server operator]
+[19Feb2025 15:38:05.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> kinda slow tho
+[19Feb2025 15:38:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> well yeah but
+[19Feb2025 15:38:14.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> it gets jobs done
+[19Feb2025 15:38:24.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> now a chunk loader
+[19Feb2025 15:38:26.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ye
+[19Feb2025 15:38:26.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> would be nice
+[19Feb2025 15:38:39.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i forgot to add the mod
+[19Feb2025 15:38:39.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> eh
+[19Feb2025 15:38:44.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> zf
+[19Feb2025 15:38:49.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> This can make us a rocket silo
+[19Feb2025 15:38:53.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made zfakeinq a server operator
+[19Feb2025 15:38:55.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> fan
+[19Feb2025 15:39:00.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> ?
+[19Feb2025 15:39:08.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
+[19Feb2025 15:39:10.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> do the mechanical crafter
+[19Feb2025 15:39:13.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> pls
+[19Feb2025 15:39:16.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> right away
+[19Feb2025 15:39:31.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> [x:-44, y:66, z:419, dim:minecraft:overworld]
+[19Feb2025 15:39:34.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> come milo
+[19Feb2025 15:42:06.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> [x:-750, y:63, z:-325, dim:minecraft:overworld]
+[19Feb2025 15:42:10.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> zf, are u gonna add void tanks next time u add mods?
+[19Feb2025 15:42:15.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> no
+[19Feb2025 15:45:45.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I'm considering making my building a water wheel power plant
+[19Feb2025 15:47:02.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> fan
+[19Feb2025 15:47:05.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> we got the crafters
+[19Feb2025 15:47:10.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> wheres the andesite allow
+[19Feb2025 15:47:15.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I got it
+[19Feb2025 15:47:17.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> i saw it
+[19Feb2025 15:47:21.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MiloDog1> give me pls
+[19Feb2025 15:48:28.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> YEEEESSS
+[19Feb2025 15:48:44.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> we got crushing wheels
+[19Feb2025 15:49:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ima afk on the quarry meanwhile
+[19Feb2025 15:49:17.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I am gonna make my water wheel power plant

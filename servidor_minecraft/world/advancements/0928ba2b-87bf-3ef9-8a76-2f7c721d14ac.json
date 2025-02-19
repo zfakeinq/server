@@ -209,9 +209,12 @@
       "minecraft:deep_ocean": "2025-02-17 20:19:36 +0000",
       "minecraft:frozen_river": "2025-02-16 15:56:10 +0000",
       "minecraft:birch_forest": "2025-02-16 14:42:01 +0000",
+      "minecraft:bamboo_jungle": "2025-02-19 15:14:43 +0000",
       "minecraft:beach": "2025-02-17 15:02:23 +0000",
       "minecraft:dark_forest": "2025-02-18 17:25:20 +0000",
+      "minecraft:mangrove_swamp": "2025-02-19 15:23:33 +0000",
       "minecraft:river": "2025-02-16 14:44:30 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-19 15:12:00 +0000",
       "minecraft:snowy_plains": "2025-02-16 15:54:53 +0000",
       "minecraft:stony_shore": "2025-02-17 20:24:32 +0000",
       "minecraft:dripstone_caves": "2025-02-16 14:32:03 +0000",
@@ -220,12 +223,17 @@
       "minecraft:forest": "2025-02-16 14:40:56 +0000",
       "minecraft:deep_cold_ocean": "2025-02-17 20:25:43 +0000",
       "minecraft:frozen_ocean": "2025-02-16 15:56:08 +0000",
+      "minecraft:desert": "2025-02-19 15:18:08 +0000",
       "minecraft:deep_frozen_ocean": "2025-02-17 20:35:09 +0000",
       "minecraft:ocean": "2025-02-17 16:35:01 +0000",
+      "minecraft:jungle": "2025-02-19 15:13:40 +0000",
       "minecraft:snowy_beach": "2025-02-16 15:55:05 +0000",
+      "minecraft:warm_ocean": "2025-02-19 15:15:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-02-19 15:14:52 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-16 14:44:31 +0000",
       "minecraft:meadow": "2025-02-17 20:28:35 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-17 19:12:10 +0000",
+      "minecraft:savanna": "2025-02-19 15:22:34 +0000",
       "minecraft:plains": "2025-02-16 14:21:53 +0000"
     },
     "done": false
@@ -252,8 +260,12 @@
     "criteria": {
       "shrubland": "2025-02-17 20:24:17 +0000",
       "rocky_shrubland": "2025-02-17 20:24:08 +0000",
+      "scrubland": "2025-02-19 15:23:49 +0000",
+      "bayou": "2025-02-19 15:24:11 +0000",
+      "floodplain": "2025-02-19 15:12:36 +0000",
       "highland": "2025-02-17 19:16:28 +0000",
       "jacaranda_glade": "2025-02-16 15:48:37 +0000",
+      "marsh": "2025-02-19 15:09:54 +0000",
       "jade_cliffs": "2025-02-17 20:22:22 +0000",
       "mystic_grove": "2025-02-17 20:24:33 +0000",
       "cold_desert": "2025-02-16 15:56:17 +0000",
@@ -264,10 +276,15 @@
       "overgrown_greens": "2025-02-17 20:21:08 +0000",
       "bog": "2025-02-16 16:02:05 +0000",
       "coniferous_forest": "2025-02-16 14:22:29 +0000",
+      "dryland": "2025-02-19 15:17:40 +0000",
+      "wasteland": "2025-02-19 15:17:16 +0000",
       "redwood_forest": "2025-02-16 14:58:26 +0000",
       "aspen_glade": "2025-02-16 15:53:41 +0000",
       "dune_beach": "2025-02-17 15:39:11 +0000",
       "seasonal_forest": "2025-02-16 15:50:12 +0000",
+      "pasture": "2025-02-19 15:25:11 +0000",
+      "rocky_rainforest": "2025-02-19 15:14:37 +0000",
+      "volcanic_plains": "2025-02-19 15:13:43 +0000",
       "fir_clearing": "2025-02-17 20:31:48 +0000",
       "pumpkin_patch": "2025-02-16 15:49:00 +0000",
       "prairie": "2025-02-17 14:43:00 +0000",
@@ -468,12 +485,14 @@
   },
   "create:wrench_goggles": {
     "criteria": {
+      "0": "2025-02-19 15:46:58 +0000",
       "1": "2025-02-16 18:53:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "rice": "2025-02-19 15:32:29 +0000",
       "potato": "2025-02-16 19:06:15 +0000"
     },
     "done": false
@@ -580,9 +599,33 @@
     },
     "done": true
   },
+  "mekanismtools:better_than_netherite": {
+    "criteria": {
+      "armor": "2025-02-19 15:03:50 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-02-19 15:44:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_rice": {
+    "criteria": {
+      "plant_rice": "2025-02-19 15:32:29 +0000"
+    },
+    "done": true
+  },
   "mekanismtools:alternate_tools": {
     "criteria": {
       "tools": "2025-02-19 14:48:38 +0000"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-02-19 15:03:50 +0000"
     },
     "done": true
   },

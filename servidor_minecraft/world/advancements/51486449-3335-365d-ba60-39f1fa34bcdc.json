@@ -660,15 +660,33 @@
     },
     "done": true
   },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-02-18 16:23:42 +0000"
+    },
+    "done": true
+  },
   "create:brass": {
     "criteria": {
       "0": "2025-02-18 16:23:55 +0000"
     },
     "done": true
   },
-  "create:rose_quartz": {
+  "create:brass_casing": {
     "criteria": {
-      "0": "2025-02-18 16:23:42 +0000"
+      "0": "2025-02-18 16:24:11 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-02-18 16:43:52 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-02-18 17:58:53 +0000"
     },
     "done": true
   },
@@ -684,27 +702,15 @@
     },
     "done": true
   },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-02-18 17:58:53 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2025-02-18 16:43:52 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/raygun": {
     "criteria": {
       "raygun": "2025-02-18 19:12:04 +0000"
     },
     "done": true
   },
-  "create:brass_casing": {
+  "create:mechanical_mixer": {
     "criteria": {
-      "0": "2025-02-18 16:24:11 +0000"
+      "0": "2025-02-19 15:47:26 +0000"
     },
     "done": true
   },
