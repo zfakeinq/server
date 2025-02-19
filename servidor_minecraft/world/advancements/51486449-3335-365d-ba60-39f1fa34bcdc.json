@@ -715,5 +715,23 @@
     },
     "done": true
   },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-02-19 16:17:07 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-19 16:18:25 +0000"
+    },
+    "done": true
+  },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2025-02-19 16:21:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
