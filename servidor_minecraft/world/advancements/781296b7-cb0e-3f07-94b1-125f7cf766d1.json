@@ -793,6 +793,24 @@
     },
     "done": true
   },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2025-02-18 16:35:47 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-02-18 16:58:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/use_cutting_board": {
+    "criteria": {
+      "cutting_board": "2025-02-18 17:17:55 +0000"
+    },
+    "done": true
+  },
   "create:hand_crank_000": {
     "criteria": {
       "0": "2025-02-18 17:24:03 +0000"
@@ -811,33 +829,15 @@
     },
     "done": true
   },
-  "northstar:one_small_step": {
-    "criteria": {
-      "balls": "2025-02-18 18:32:25 +0000"
-    },
-    "done": true
-  },
   "create:compacting": {
     "criteria": {
       "0": "2025-02-18 18:11:24 +0000"
     },
     "done": true
   },
-  "create:deployer": {
+  "northstar:one_small_step": {
     "criteria": {
-      "0": "2025-02-18 16:58:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/use_cutting_board": {
-    "criteria": {
-      "cutting_board": "2025-02-18 17:17:55 +0000"
-    },
-    "done": true
-  },
-  "quark:get_diamond_heart": {
-    "criteria": {
-      "get_diamond_heart": "2025-02-18 16:35:47 +0000"
+      "balls": "2025-02-18 18:32:25 +0000"
     },
     "done": true
   },
