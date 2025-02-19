@@ -893,3 +893,75 @@ Caused by: java.io.EOFException: End of input at line 1 column 1 path $
 [19Feb2025 14:28:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Spectator Mode]
 [19Feb2025 14:28:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zfakeinq: Set own game mode to Survival Mode]
 [19Feb2025 14:30:25.519] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at -4162 -56 -7074 in 1s
+[19Feb2025 14:32:45.589] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Black_Impostor[/127.251.182.52:56075] logged in with entity id 3700 at (-576.0406608317097, 64.0, 72.88124014088694)
+[19Feb2025 14:32:45.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Black_Impostor joined the game
+[19Feb2025 14:32:45.636] [Server thread/INFO] [Jade/]: Syncing config to Black_Impostor (0928ba2b-87bf-3ef9-8a76-2f7c721d14ac)
+[19Feb2025 14:32:50.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> sup
+[19Feb2025 14:32:54.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> hI
+[19Feb2025 14:32:56.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How
+[19Feb2025 14:33:00.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How's the rocket
+[19Feb2025 14:33:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> didnt touch it yet
+[19Feb2025 14:33:10.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> [x:496, y:69, z:418, dim:minecraft:overworld]
+[19Feb2025 14:33:17.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Is that the space center?
+[19Feb2025 14:33:21.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> crash site
+[19Feb2025 14:33:23.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ye
+[19Feb2025 14:33:29.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i got 38 fluid tanks
+[19Feb2025 14:33:46.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Did u bring back the thing that fills oxygen in suits?
+[19Feb2025 14:33:56.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i got 3 oxygen filler
+[19Feb2025 14:33:59.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> 1 concentrator
+[19Feb2025 14:34:01.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and 3 sealers
+[19Feb2025 14:34:12.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Back at our factory or where?
+[19Feb2025 14:34:24.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> no on the new space agency island
+[19Feb2025 14:34:31.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> this one will be gud
+[19Feb2025 14:34:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Where is that?
+[19Feb2025 14:34:37.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> [x:-748, y:68, z:-336, dim:minecraft:overworld]
+[19Feb2025 14:34:38.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> close to us
+[19Feb2025 14:34:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> but since next week were adding new mods
+[19Feb2025 14:34:48.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> like security craft
+[19Feb2025 14:34:51.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> we're good
+[19Feb2025 14:34:58.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> add tons of cameras and turret
+[19Feb2025 14:34:59.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> s
+[19Feb2025 14:35:15.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> if u dont mind
+[19Feb2025 14:35:16.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> come
+[19Feb2025 14:35:25.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Already omw
+[19Feb2025 14:35:27.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> i need help
+[19Feb2025 14:35:29.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> deforesting
+[19Feb2025 14:35:35.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> so make like 2 saws
+[19Feb2025 14:35:37.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and 2 cranks
+[19Feb2025 14:35:46.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cause i got a good axe but its kinda slow
+[19Feb2025 14:35:52.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> with what iron?
+[19Feb2025 14:35:58.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> fqh
+[19Feb2025 14:36:01.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> cmere ill give u
+[19Feb2025 14:36:56.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ok
+[19Feb2025 14:37:15.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> after this
+[19Feb2025 14:37:16.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> today we will have a new person come
+[19Feb2025 14:37:16.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> I'
+[19Feb2025 14:37:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Will make a farm
+[19Feb2025 14:37:21.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> then on saturday another one
+[19Feb2025 14:37:31.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> actually maybe 2
+[19Feb2025 14:37:38.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> The more the better
+[19Feb2025 14:37:48.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ye but alot will be chaos
+[19Feb2025 14:37:56.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and i will start needing to give atleast 1 person admin
+[19Feb2025 14:38:23.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> downside is
+[19Feb2025 14:38:27.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> most of them are spanish
+[19Feb2025 14:38:31.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> So?
+[19Feb2025 14:38:42.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> meh just use a translator
+[19Feb2025 14:38:51.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Us?
+[19Feb2025 14:38:55.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ye if yall want
+[19Feb2025 14:39:04.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How do u know they dont know english?
+[19Feb2025 14:39:10.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> milo knows
+[19Feb2025 14:39:11.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and
+[19Feb2025 14:39:16.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> the one coming today
+[19Feb2025 14:39:22.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> the rest are retarded
+[19Feb2025 14:40:07.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> also we may come back
+[19Feb2025 14:40:08.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> to the moon
+[19Feb2025 14:40:09.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> today
+[19Feb2025 14:40:18.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> to start building the base
+[19Feb2025 14:40:37.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and we need to make liquid oxygen
+[19Feb2025 14:41:06.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Y, can't we use electrolysis?
+[19Feb2025 14:41:24.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> its to make water wheels work
+[19Feb2025 14:41:40.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> Oh wait... water freezes
+[19Feb2025 14:41:42.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> and its not that hard to make liquid oxygen
+[19Feb2025 14:41:53.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> ice box and temperature regulator
+[19Feb2025 14:41:58.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Black_Impostor> How long does liquid oxygen last?
+[19Feb2025 14:42:03.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zfakeinq> wym
